@@ -21,4 +21,4 @@ Thanks to Martin Tutek, dataset can be downloaded via the python code here: http
 
 ## Examples
 
-![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png)
+canine - ca0 - dog: ![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png)

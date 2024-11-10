@@ -1,0 +1,146 @@
+{
+  "airplane": {
+    "passenger plane": "ai0",
+    "small plane": "ai1",
+    "military plane": "ai2",
+    "helicopter": "ai3",
+    "balloon": "ai4",
+    "zeppelin": "ai5",
+    "toy plane": "ai6"
+  },
+  "bird": {
+    "chicken": "bi0",
+    "duck": "bi1",
+    "eagle": "bi2"
+  },
+  "canine": {
+    "dog": "ca0",
+    "fox": "ca1",
+    "wolf": "ca2",
+    "coyote": "ca3",
+    "jackal": "ca4"
+  },
+  "cetacean": {
+    "dolphin": "ce0",
+    "whale": "ce1"
+  },
+  "cycle": {
+    "motorcycle": "cy0",
+    "monocycle": "cy1",
+    "bicycle": "cy2",
+    "tricycle": "cy3"
+  },
+  "equine": {
+    "horse": "eq0",
+    "donkey": "eq1"
+  },
+  "feline": {
+    "cat": "fe",
+    "lion": "fe",
+    "tiger": "fe",
+    "leopard": "fe",
+    "hyena": "fe",
+    "caracal": "fe",
+    "lynx": "fe",
+    "manul": "fe",
+    "jaguar": "fe",
+    "cougar": "fe",
+    "fossa": "fe"
+  },
+  "mustelinae": {
+    "badger": "mu",
+    "weasel": "mu",
+    "polecat": "mu",
+    "ferret": "mu",
+    "mink": "mu"
+  },
+  "outlier": {
+    "restaurant": "ou",
+    "human": "ou",
+    "multiple subject": "ou",
+    "unknown animal": "ou",
+    "unclear picture": "ou"
+  },
+  "primate": {
+    "monkey": "pr",
+    "night monkey": "pr",
+    "orangutan ": "pr",
+    "lemur": "pr"
+  },
+  "procyonid": {
+    "racoon": "pr",
+    "ringtail": "pr",
+    "coati": "pr"
+  },
+  "reptile": {
+    "snake": "re",
+    "lizard": "re",
+    "komodo dragon": "re",
+    "turtle": "re",
+    "sea turtle": "re"
+  },
+  "rodent": {
+    "mouse": "ro0",
+    "rat": "ro1",
+    "hamster": "ro2",
+    "guine pig": "ro3",
+    "squirrel": "ro4",
+    "rabbit": "ro5",
+    "pika": "ro6",
+    "vole": "ro7"
+  },
+  "ruminant": {
+    "cattle": "ru",
+    "sheep (male)": "ru",
+    "sheep (female)": "ru",
+    "goat (male)": "ru",
+    "goat (female)": "ru",
+    "deer (male)": "ru",
+    "deer (female)": "ru",
+    "antelope (male)": "ru",
+    "antelope (female)": "ru",
+    "giraffe": "ru"
+  },
+  "swine": {
+    "pig": "sw",
+    "boar": "sw"
+  },
+  "train": {
+    "train": "tr",
+    "tram": "tr"
+  },
+  "utility": {
+    "shopping cart": "ut",
+    "dolly": "ut",
+    "wheel barrow": "ut"
+  },
+  "vehicle": {
+    "car": "ve",
+    "bus": "ve",
+    "minibus": "ve",
+    "minivan": "ve",
+    "van": "ve",
+    "caravan": "ve",
+    "ambulance": "ve",
+    "firetruck": "ve",
+    "car carrier trailer": "ve",
+    "freight truck": "ve",
+    "gravel truck": "ve",
+    "mini truck": "ve",
+    "pickup truck": "ve",
+    "tractor": "ve",
+    "excavator": "ve",
+    "rolling compactor": "ve",
+    "full-track tank": "ve",
+    "half-track car": "ve"
+  },
+  "watercraft": {
+    "boat": "wa",
+    "catamaran boat": "wa",
+    "sail boat": "wa",
+    "sail ship": "wa",
+    "cruise ship": "wa",
+    "military ship": "wa",
+    "cargo ship": "wa"
+  }
+}

@@ -21,9 +21,9 @@ Thanks to Martin Tutek, dataset can be downloaded via the python code here: http
 
 ## Examples
 
-Class | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | 
----   | --- | --- | ---  | ---  | --- | 
-canine | ![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png) | ca1 - fox - picture | ca2 - wolf - picture | ca3 - coyote - picture | ca4 - jackal - picture | 
+Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | 
+--- | --- | --- | --- | --- | --- |
+canine | ![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png) | ![ca1 - fox]() | ![ca2 - wolf]() | ![ca3 - coyote]() | ![ca4 - jackal]() | 
 
 
 

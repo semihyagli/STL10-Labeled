@@ -17,3 +17,8 @@ This public repo contains labels for the unlabeled pictures in the stl10 dataset
 More information on the original stl10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ 
 Thanks to Martin Tutek, dataset can be downloaded via the python code here: https://github.com/mttk/STL10
 
+
+
+## Examples
+
+![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png)

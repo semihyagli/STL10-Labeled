@@ -43,12 +43,13 @@
     "tiger": "fe2",
     "leopard": "fe3",
     "hyena": "fe4",
-    "caracal": "fe5",
-    "lynx": "fe6",
-    "manul": "fe7",
-    "jaguar": "fe8",
-    "cougar": "fe9",
-    "fossa": "fe10"
+    "meerkat": "fe5",
+    "caracal": "fe6",
+    "lynx": "fe7",
+    "manul": "fe8",
+    "jaguar": "fe9",
+    "cougar": "fe10",
+    "fossa": "fe11"
   },
   "mustelinae": {
     "badger": "mu",

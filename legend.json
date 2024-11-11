@@ -51,12 +51,12 @@
     "leopard": "fe3",
     "hyena": "fe4",
     "meerkat": "fe5",
-    "caracal": "fe6",
-    "lynx": "fe7",
-    "manul": "fe8",
-    "jaguar": "fe9",
-    "cougar": "fe10",
-    "fossa": "fe11"
+    "fossa": "fe6",
+    "caracal": "fe7",
+    "lynx": "fe8",
+    "manul": "fe9",
+    "jaguar": "fe10",
+    "cougar": "fe11"
   },
   "mustelinae": {
     "badger": "mu",
@@ -66,11 +66,11 @@
     "mink": "mu"
   },
   "outlier": {
-    "restaurant": "ou",
-    "human": "ou",
-    "multiple subject": "ou",
-    "unknown animal": "ou",
-    "unclear picture": "ou"
+    "restaurant": "ou0",
+    "human": "ou1",
+    "multiple subject": "ou2",
+    "unknown animal": "ou3",
+    "unclear picture": "ou4"
   },
   "primate": {
     "monkey": "pri0",
@@ -111,6 +111,7 @@
     "goat (female)": "ru",
     "deer (male)": "ru",
     "deer (female)": "ru",
+    "pronghorn": "ru",
     "antelope (male)": "ru",
     "antelope (female)": "ru",
     "giraffe": "ru"

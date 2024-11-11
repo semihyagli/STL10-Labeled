@@ -36,6 +36,6 @@ Class | fe0 - cat | fe1 - lion | fe2 - tiger | fe3 - leopard | fe4 - hyena | fe5
 --- | --- | --- | --- | --- | --- | --- |
 feline | ![fe0 - cat](examples/feline/fe0-cat.png) | ![fe1 - lion](examples/feline/fe1-lion.png) | ![fe2 - tiger](examples/feline/fe2-tiger.png) | ![fe3 - leopard](examples/feline/fe3-leopard.png) | ![fe4 - hyena](examples/feline/fe4-hyena.png) |  ![fe5 - meerkat](examples/feline/fe5-meerkat.png) |
 
-Class | fe6 - caracal | fe7 - lynx | fe8 - manul | fe9 - jaguar | fe10 - cougar | fe11 - fossa | 
+Class | fe6 - fossa | fe7 - caracal | fe8 - lynx | fe9 - manul | fe10 - jaguar | fe11 - cougar | 
 --- | --- | --- | --- | --- | --- | --- | 
-feline | ![fe6 - caracal](examples/feline/fe6-caracal.png) |  ![fe7 - lynx](examples/feline/fe7-lynx.png) |  ![fe8 - manul](examples/feline/fe8-manul.png) |  ![fe9 - jaguar](examples/feline/fe9-jaguar.png) |  ![fe10 - cougar](examples/feline/fe10-cougar.png) |  ![fe11 - fossa](examples/feline/fe11-fossa.png) | 
+feline | ![fe6 - fossa](examples/feline/fe6-fossa) | ![fe7 - caracal](examples/feline/fe7-caracal) | ![fe8 - lynx](examples/feline/fe8-lynx) | ![fe9 - manul](examples/feline/fe9-manul) | ![fe10 - jaguar](examples/feline/fe10-jaguar) | ![fe11 - cougar](examples/feline/fe11-cougar) | 

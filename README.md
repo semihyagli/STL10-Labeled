@@ -13,8 +13,8 @@ You can also sponsor us by downloading our free application, **_Etiqueta_**, to 
 [Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
 
 
-This public repo contains labels for the unlabeled pictures in the stl10 dataset. 
-More information on the original stl10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ 
+This public repo contains labels for the unlabeled pictures in the stl10 dataset. <br/>
+More information on the original stl10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ <br/>
 Thanks to Martin Tutek, dataset can be downloaded via the python code here: https://github.com/mttk/STL10
 
 

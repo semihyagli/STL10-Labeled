@@ -37,17 +37,17 @@
     "donkey": "eq1"
   },
   "feline": {
-    "cat": "fe",
-    "lion": "fe",
-    "tiger": "fe",
-    "leopard": "fe",
-    "hyena": "fe",
-    "caracal": "fe",
-    "lynx": "fe",
-    "manul": "fe",
-    "jaguar": "fe",
-    "cougar": "fe",
-    "fossa": "fe"
+    "cat": "fe0",
+    "lion": "fe1",
+    "tiger": "fe2",
+    "leopard": "fe3",
+    "hyena": "fe4",
+    "caracal": "fe5",
+    "lynx": "fe6",
+    "manul": "fe7",
+    "jaguar": "fe8",
+    "cougar": "fe9",
+    "fossa": "fe10"
   },
   "mustelinae": {
     "badger": "mu",

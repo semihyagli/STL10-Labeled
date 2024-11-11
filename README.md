@@ -21,9 +21,22 @@ Thanks to Martin Tutek, dataset can be downloaded via the python code here: http
 
 ## Examples
 
-Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf
+ai0 - passenger plane | ai1 - small plane | ai2 - sea plane | ai3 - military plane | ai4 - toy plane | ai5 - helicopter | ai6 - balloon | ai7 - zeppelin | 
+Class | --- | --- | --- | --- | --- | --- | --- | --- | 
+airplane | ![ai0 - passenger plane](examples/airplane/ai0-passenger plane.png) | ![ai1 - small plane](examples/airplane/ai1-small plane.png) | ![ai2 - sea plane](examples/airplane/ai2-sea plane.png) | ![ai3 - military plane](examples/airplane/ai3-military plane.png) | ![ai4 - toy plane](examples/airplane/ai4-toy plane.png) | ![ai5 - helicopter](examples/airplane/ai5-helicopter.png) | ![ai6 - balloon](examples/airplane/ai6-balloon.png) | ![ai7 - zeppelin](examples/airplane/ai7-zeppelin.png) | 
+
+
+
+Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf |
 --- | --- | --- | --- | --- | --- | --- |
-canine | ![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png) | ![ca1 - fox](examples/canine/ca1%20-%20fox.png) | ![ca2 - wolf](examples/canine/ca2%20-%20wolf.png) | ![ca3 - coyote](examples/canine/ca3%20-%20coyote.png) | ![ca4 - jackal](examples/canine/ca4%20-%20jackal.png) | ![ca5 - maned wolf](examples/canine/ca5%20-%20maned%20wolf.png) |
+canine | ![ca0 - dog](examples/canine/ca0-dog.png) | ![ca1 - fox](examples/canine/ca1-fox.png) | ![ca2 - wolf](examples/canine/ca2-wolf.png) | ![ca3 - coyote](examples/canine/ca3-coyote.png) | ![ca4 - jackal](examples/canine/ca4-jackal.png) | ![ca5 - maned wolf](examples/canine/ca5-maned%20wolf.png) |
+
+
+
+
+
+
+
 
 
 

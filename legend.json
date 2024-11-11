@@ -2,11 +2,12 @@
   "airplane": {
     "passenger plane": "ai0",
     "small plane": "ai1",
-    "military plane": "ai2",
-    "helicopter": "ai3",
-    "balloon": "ai4",
-    "zeppelin": "ai5",
-    "toy plane": "ai6"
+    "sea plane": "ai2",
+    "military plane": "ai3",
+    "toy plane": "ai4",
+    "helicopter": "ai5",
+    "balloon": "ai6",
+    "zeppelin": "ai7"
   },
   "bird": {
     "chicken": "bi0",

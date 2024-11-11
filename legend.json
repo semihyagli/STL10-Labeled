@@ -71,9 +71,10 @@
     "lemur": "pr"
   },
   "procyonid": {
-    "racoon": "pr",
-    "ringtail": "pr",
-    "coati": "pr"
+    "raccoon": "pr0",
+    "ringtail": "pr1",
+    "coati": "pr2",
+    "kinkajoo": "pr3"
   },
   "reptile": {
     "snake": "re",

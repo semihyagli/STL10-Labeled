@@ -23,7 +23,7 @@ Thanks to Martin Tutek, dataset can be downloaded via the python code here: http
 
 Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf
 --- | --- | --- | --- | --- | --- | --- |
-canine | ![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png) | ![ca1 - fox]() | ![ca2 - wolf]() | ![ca3 - coyote]() | ![ca4 - jackal]() | ![ca5 - maned wolf]() |
+canine | ![canine - ca0 - dog](examples/canine/ca0%20-%20dog.png) | ![ca1 - fox](examples/canine/ca1%20-%20fox.png) | ![ca2 - wolf](examples/canine/ca2%20-%20wolf.png) | ![ca3 - coyote](examples/canine/ca3%20-%20coyote.png) | ![ca4 - jackal](examples/canine/ca4%20-%20jackal.png) | ![ca5 - maned wolf](examples/canine/ca5%20-%20maned%20wolf.png) |
 
 
 

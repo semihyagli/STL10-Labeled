@@ -21,8 +21,8 @@ Thanks to Martin Tutek, dataset can be downloaded via the python code here: http
 
 ## Examples
 
-ai0 - passenger plane | ai1 - small plane | ai2 - sea plane | ai3 - military plane | ai4 - toy plane | ai5 - helicopter | ai6 - balloon | ai7 - zeppelin | 
-Class | --- | --- | --- | --- | --- | --- | --- | --- | 
+Class | ai0 - passenger plane | ai1 - small plane | ai2 - sea plane | ai3 - military plane | ai4 - toy plane | ai5 - helicopter | ai6 - balloon | ai7 - zeppelin | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | 
 airplane | ![ai0 - passenger plane](examples/airplane/ai0-passenger plane.png) | ![ai1 - small plane](examples/airplane/ai1-small plane.png) | ![ai2 - sea plane](examples/airplane/ai2-sea plane.png) | ![ai3 - military plane](examples/airplane/ai3-military plane.png) | ![ai4 - toy plane](examples/airplane/ai4-toy plane.png) | ![ai5 - helicopter](examples/airplane/ai5-helicopter.png) | ![ai6 - balloon](examples/airplane/ai6-balloon.png) | ![ai7 - zeppelin](examples/airplane/ai7-zeppelin.png) | 
 
 

@@ -66,12 +66,12 @@
     "unclear picture": "ou"
   },
   "primate": {
-    "monkey": "pr0",
-    "night monkey": "pr1",
-    "lemur": "pr2",
-    "tarsier": "pr3",
-    "gorilla": "pr4",
-    "orangutan ": "pr5"
+    "monkey": "pri0",
+    "night monkey": "pri1",
+    "lemur": "pri2",
+    "tarsier": "pri3",
+    "gorilla": "pri4",
+    "orangutan ": "pri5"
   },
   "procyonid": {
     "raccoon": "pr0",

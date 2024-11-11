@@ -27,9 +27,9 @@ airplane | ![ai0 - passenger plane](examples/airplane/ai0-passenger%20plane.png)
 
 
 
-Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf |
---- | --- | --- | --- | --- | --- | --- |
-canine | ![ca0 - dog](examples/canine/ca0-dog.png) | ![ca1 - fox](examples/canine/ca1-fox.png) | ![ca2 - wolf](examples/canine/ca2-wolf.png) | ![ca3 - coyote](examples/canine/ca3-coyote.png) | ![ca4 - jackal](examples/canine/ca4-jackal.png) | ![ca5 - maned wolf](examples/canine/ca5-maned%20wolf.png) |
+Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
+--- | --- | --- | --- | --- | --- | --- | --- |
+canine | ![ca0 - dog](examples/canine/ca0-dog.png) | ![ca1 - fox](examples/canine/ca1-fox.png) | ![ca2 - wolf](examples/canine/ca2-wolf.png) | ![ca3 - coyote](examples/canine/ca3-coyote.png) | ![ca4 - jackal](examples/canine/ca4-jackal.png) | ![ca5 - maned wolf](examples/canine/ca5-maned%20wolf.png) | ![ca6 - dog sled](examples/canine/ca6-dog%20sled.png)
 
 
 Class | fe0 - cat | fe1 - lion | fe2 - tiger | fe3 - leopard | fe4 - hyena | 

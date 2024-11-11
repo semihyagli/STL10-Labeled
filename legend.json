@@ -20,7 +20,8 @@
     "wolf": "ca2",
     "coyote": "ca3",
     "jackal": "ca4",
-    "maned wolf": "ca5"
+    "maned wolf": "ca5",
+    "dog sled": "ca6"
   },
   "cetacean": {
     "dolphin": "ce0",

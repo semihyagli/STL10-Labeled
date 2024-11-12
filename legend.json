@@ -7,7 +7,8 @@
     "toy plane": "ai4",
     "helicopter": "ai5",
     "balloon": "ai6",
-    "zeppelin": "ai7"
+    "zeppelin": "ai7",
+    "spaceship": "ai8"
   },
   "bird": {
     "chicken": "bi0",
@@ -70,7 +71,9 @@
     "human": "ou1",
     "multiple subject": "ou2",
     "unknown animal": "ou3",
-    "unclear picture": "ou4"
+    "unclear picture": "ou4",
+    "skull": "ou5",
+    "moth": "ou6"
   },
   "primate": {
     "monkey": "pri0",
@@ -78,7 +81,8 @@
     "lemur": "pri2",
     "tarsier": "pri3",
     "gorilla": "pri4",
-    "orangutan ": "pri5"
+    "mandrill": "pri5",
+    "orangutan ": "pri6"
   },
   "procyonid": {
     "raccoon": "pr0",
@@ -121,8 +125,8 @@
     "boar": "sw"
   },
   "train": {
-    "train": "tr",
-    "tram": "tr"
+    "train": "tr0",
+    "tram": "tr1"
   },
   "utility": {
     "shopping cart": "ut",

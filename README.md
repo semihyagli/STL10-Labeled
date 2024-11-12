@@ -43,7 +43,7 @@ feline | ![fe6 - fossa](examples/feline/fe6-fossa.png) | ![fe7 - caracal](exampl
 
 Class | pri0 - monkey | pri1 - nightmonkey | pri2 - lemur | pri3 - tarsier | pri4 - gorilla | 
 --- | --- | --- | --- | --- | --- | 
-primate ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | 
+primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | 
 
 
 Class | pri5 - mandrill | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | 

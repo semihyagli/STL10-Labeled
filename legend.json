@@ -82,7 +82,8 @@
     "tarsier": "pri3",
     "gorilla": "pri4",
     "mandrill": "pri5",
-    "orangutan ": "pri6"
+    "orangutan": "pri6", 
+    "proboscis": "pri7"
   },
   "procyonid": {
     "raccoon": "pr0",

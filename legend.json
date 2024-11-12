@@ -31,6 +31,11 @@
     "maned wolf": "ca5",
     "dog sled": "ca6"
   },
+  "carriage": {
+    "horse carriage": "car0",
+    "cattle carriage": "car1",
+    "human carriage": "car2"
+  },
   "cetacean": {
     "dolphin": "ce0",
     "whale": "ce1"
@@ -43,7 +48,8 @@
   },
   "equine": {
     "horse": "eq0",
-    "donkey": "eq1"
+    "donkey": "eq1",
+    "onager": "eq2"
   },
   "feline": {
     "cat": "fe0",

@@ -10,6 +10,12 @@
     "zeppelin": "ai7",
     "spaceship": "ai8"
   },
+  "antelopes": {
+    "gazelle": "an",
+    "impala": "an",
+    "oryx": "an",
+    "kudu": "an"
+  },
   "bird": {
     "chicken": "bi0",
     "duck": "bi1",
@@ -49,7 +55,8 @@
   "equine": {
     "horse": "eq0",
     "donkey": "eq1",
-    "onager": "eq2"
+    "onager": "eq2",
+    "zorse": "eq3"
   },
   "feline": {
     "cat": "fe0",
@@ -125,8 +132,6 @@
     "deer (male)": "ru",
     "deer (female)": "ru",
     "pronghorn": "ru",
-    "antelope (male)": "ru",
-    "antelope (female)": "ru",
     "giraffe": "ru"
   },
   "swine": {

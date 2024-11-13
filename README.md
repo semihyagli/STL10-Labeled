@@ -49,3 +49,7 @@ primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmon
 Class | pri5 - mandrill | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | 
 --- | --- | --- | --- | --- | --- | 
 primate | ![pri5 - mandrill](examples/primate/pri5-mandrill.png) | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | 
+
+Class | eq0 - horse | eq1 - donkey | eq2 - onager | eq3 - zorse |
+--- | --- | --- | --- | --- | 
+equine | ![eq0 - horse](examples/equine/eq0-horse.png) | ![eq1 - donkey](examples/equine/eq1-donkey.png) | ![eq2 - onager](examples/equine/eq2-onager.png) | ![eq3 - zorse](examples/equine/eq3-zorse.png) | 

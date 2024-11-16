@@ -98,7 +98,9 @@
     "orangutan": "pri6", 
     "proboscis": "pri7",
     "tamarin": "pri8",
-    "colobus": "pri9"
+    "colobus": "pri9",
+    "ape": "pri10",
+    "marmoset": "pri11"
   },
   "procyonid": {
     "raccoon": "pr0",
@@ -107,7 +109,7 @@
     "kinkajoo": "pr3"
   },
   "reptile": {
-    "snake": "re",
+    "snake": "re0",
     "lizard": "re",
     "komodo dragon": "re",
     "turtle": "re",

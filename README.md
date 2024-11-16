@@ -53,7 +53,66 @@ primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmon
 
 Class | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | pri10 - ape | pri11 - marmoset
 --- | --- | --- | --- | --- | --- | --- |
-primate |  ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) |
+primate | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) |
+
+
+
+
+Class | ve0 - car | ve1 - limo | ve2 - golf-cart | ve3 - jeep | ve4 - bus | ve5 - minibus 
+--- | --- | --- | --- | --- | --- | --- |
+vehicle | ![ve0 - car](examples/vehicle/ve0-car.png) | ![ve1 - limo](examples/vehicle/ve1-limo.png) | ![ve2 - golf-cart](examples/vehicle/ve2-golf-cart.png) | ![ve3 - jeep](examples/vehicle/ve3-jeep.png) | ![ve4 - bus](examples/vehicle/ve4-bus.png) | ![ve5 - minibus](examples/vehicle/ve5-minibus.png) |
+
+Class | ve6 - minivan | ve7 - van | ve8 - caravan | ve9 - ambulance_van | ve10 - ambulance_truck |
+--- | --- | --- | --- | --- | --- |
+vehicle | ![ve6 - minivan](examples/vehicle/ve6-minivan.png) | ![ve7 - van](examples/vehicle/ve7-van.png) | ![ve8 - caravan](examples/vehicle/ve8-caravan.png) | ![ve9 - ambulance_van](examples/vehicle/ve9-ambulance_van.png) | ![ve10 - ambulance_truck](examples/vehicle/ve10-ambulance_truck.png) |
+
+Class | ve11 - garbage truck | ve12 - firetruck | ve13 - car carrier trailer | ve14 - freight truck | ve15 - gravel truck |
+--- | --- | --- | --- | --- | --- |
+vehicle | ![ve11 - garbage truck](examples/vehicle/ve11-garbage_truck.png) | ![ve12 - firetruck](examples/vehicle/ve12-firetruck.png) | ![ve13 - car carrier trailer](examples/vehicle/ve13-car_carrier_trailer.png) | ![ve14 - freight truck](examples/vehicle/ve14-freight_truck.png) | ![ve15 - gravel truck](examples/vehicle/ve15-gravel_truck.png) |
+
+Class | ve16 - mini truck | ve17 - pickup truck | ve18 - tractor | ve19 - excavator | ve20 - rolling compactor |
+--- | --- | --- | --- | --- | --- |
+vehicle | ![ve16 - mini truck](examples/vehicle/ve16-mini_truck.png) | ![ve17 - pickup truck](examples/vehicle/ve17-pickup_truck.png) | ![ve18 - tractor](examples/vehicle/ve18-tractor.png) | ![ve19 - excavator](examples/vehicle/ve19-excavator.png) | ![ve20 - rolling compactor](examples/vehicle/ve20-rolling_compactor.png) |
+
+Class | ve21 - full-track tank | ve22 - half-track car | ve23 - bumper car | ve24 - go-kart | ve25 - amphibious car |
+--- | --- | --- | --- | --- | --- |
+vehicle | ![ve21 - full-track tank](examples/vehicle/ve21-full-track_tank.png) | ![ve22 - half-track car](examples/vehicle/ve22-half-track_car.png) | ![ve23 - bumper car](examples/vehicle/ve23-bumper_car.png) | ![ve24 - go-kart](examples/vehicle/ve24-go-kart.png) | ![ve25 - amphibious car](examples/vehicle/ve25-amphibious_car.png) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

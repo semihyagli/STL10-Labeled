@@ -174,7 +174,8 @@
     "full-track tank": "ve21", 
     "half-track car": "ve22",
     "bumper car": "ve23",
-    "go-kart": "ve24"
+    "go-kart": "ve24",
+    "amphibious car": "ve25"
   },
   "watercraft": {
     "boat": "wa",

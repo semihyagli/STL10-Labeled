@@ -74,40 +74,9 @@ Class | ve16 - mini truck | ve17 - pickup truck | ve18 - tractor | ve19 - excava
 --- | --- | --- | --- | --- | --- |
 vehicle | ![ve16 - mini truck](examples/vehicle/ve16-mini_truck.png) | ![ve17 - pickup truck](examples/vehicle/ve17-pickup_truck.png) | ![ve18 - tractor](examples/vehicle/ve18-tractor.png) | ![ve19 - excavator](examples/vehicle/ve19-excavator.png) | ![ve20 - rolling compactor](examples/vehicle/ve20-rolling_compactor.png) |
 
-Class | ve21 - full-track tank | ve22 - half-track car | ve23 - bumper car | ve24 - go-kart | ve25 - amphibious car |
---- | --- | --- | --- | --- | --- |
-vehicle | ![ve21 - full-track tank](examples/vehicle/ve21-full-track_tank.png) | ![ve22 - half-track car](examples/vehicle/ve22-half-track_car.png) | ![ve23 - bumper car](examples/vehicle/ve23-bumper_car.png) | ![ve24 - go-kart](examples/vehicle/ve24-go-kart.png) | ![ve25 - amphibious car](examples/vehicle/ve25-amphibious_car.png) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Class | ve21 - full-track tank | ve22 - half-track car | ve23 - bumper car | ve24 - go-kart | ve25 - amphibious car | ve26 - soapbox car |
+--- | --- | --- | --- | --- | --- | --- |
+vehicle | ![ve21 - full-track tank](examples/vehicle/ve21-full-track_tank.png) | ![ve22 - half-track car](examples/vehicle/ve22-half-track_car.png) | ![ve23 - bumper car](examples/vehicle/ve23-bumper_car.png) | ![ve24 - go-kart](examples/vehicle/ve24-go-kart.png) | ![ve25 - amphibious car](examples/vehicle/ve25-amphibious_car.png) | ![ve26 - soapbox car](examples/vehicle/ve26-soapbox_car.png) |
 
 
 

@@ -175,7 +175,8 @@
     "half-track car": "ve22",
     "bumper car": "ve23",
     "go-kart": "ve24",
-    "amphibious car": "ve25"
+    "amphibious car": "ve25",
+    "soapbox car": "ve26"
   },
   "watercraft": {
     "boat": "wa",

@@ -46,14 +46,14 @@ Class | fe6 - fossa | fe7 - caracal | fe8 - lynx | fe9 - manul | fe10 - jaguar |
 feline | ![fe6 - fossa](examples/feline/fe6-fossa.png) | ![fe7 - caracal](examples/feline/fe7-caracal.png) | ![fe8 - lynx](examples/feline/fe8-lynx.png) | ![fe9 - manul](examples/feline/fe9-manul.png) | ![fe10 - jaguar](examples/feline/fe10-jaguar.png) | ![fe11 - cougar](examples/feline/fe11-cougar.png) | 
 
 
-Class | pri0 - monkey | pri1 - nightmonkey | pri2 - lemur | pri3 - tarsier | pri4 - gorilla | 
---- | --- | --- | --- | --- | --- | 
-primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | 
+Class | pri0 - monkey | pri1 - nightmonkey | pri2 - lemur | pri3 - tarsier | pri4 - gorilla | pri5 - mandrill |
+--- | --- | --- | --- | --- | --- | --- |
+primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | ![pri5 - mandrill](examples/primate/pri5-mandrill.png) |
 
 
-Class | pri5 - mandrill | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | 
---- | --- | --- | --- | --- | --- | 
-primate | ![pri5 - mandrill](examples/primate/pri5-mandrill.png) | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | 
+Class | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | pri10 - ape | pri11 - marmoset
+--- | --- | --- | --- | --- | --- | --- |
+primate |  ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) |
 
 
 

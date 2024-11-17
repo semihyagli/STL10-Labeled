@@ -86,7 +86,9 @@
     "unknown animal": "ou3",
     "unclear picture": "ou4",
     "skull": "ou5",
-    "moth": "ou6"
+    "moth": "ou6",
+    "car-interior": "ou7",
+    "train-interior": "ou8"
   },
   "primate": {
     "monkey": "pri0",

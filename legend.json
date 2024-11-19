@@ -17,9 +17,10 @@
     "kudu": "an"
   },
   "bird": {
-    "chicken": "bi0",
-    "duck": "bi1",
-    "eagle": "bi2"
+    "bird": "bi0",
+    "chicken": "bi1",
+    "duck": "bi2",
+    "eagle": "bi3"
   },
   "bear": {
     "black bear": "be",
@@ -186,8 +187,11 @@
     "soapbox car": "ve26"
   },
   "watercraft": {
-    "boat": "wa",
+    "wooden boat": "wa",
+    "jet boat": "wa",
     "catamaran boat": "wa",
+    "yacht": "wa",
+    "jetski": "wa",
     "sail boat": "wa",
     "sail ship": "wa",
     "cruise ship": "wa",

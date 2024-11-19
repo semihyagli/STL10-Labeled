@@ -112,10 +112,15 @@
   },
   "reptile": {
     "snake": "re0",
-    "lizard": "re",
-    "komodo dragon": "re",
-    "turtle": "re",
-    "sea turtle": "re"
+    "turtle": "re1",
+    "sea turtle": "re2",
+    "common lizard": "re3",
+    "frilled lizard": "re4",
+    "komodo dragon": "re5",
+    "chameleon": "re6",
+    "aligator": "re7",
+    "iguana": "re8",
+    "gila monster": "re9"
   },
   "rodent": {
     "mouse": "ro0",

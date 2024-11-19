@@ -12,12 +12,14 @@ You can also sponsor us by downloading our free application, **_Etiqueta_**, to 
 [Etiqueta on iOS or Apple Chip Macs](https://apps.apple.com/us/app/etiqueta/id6504646776) <br/>
 [Etiqueta on Android](https://play.google.com/store/apps/details?id=com.aidatalabel.etiqueta) <br/>
 
+If you use this dataset in your research, please cite it as: <br/>
+
 
 This public repo contains labels for the unlabeled pictures in the stl10 dataset. <br/>
 More information on the original stl10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ <br/>
 Thanks to Martin Tutek, dataset can be downloaded via the python code here: https://github.com/mttk/STL10
 
-
+Note: If you notice any errors and/or if you have comments/ideas relevant to this dataset or Etiqueta in general, please reach me out at ![contact@aidatalabel.com](mailto:contact@aidatalabel.com)
 
 ## Examples
 

@@ -58,12 +58,12 @@ primate | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - pr
 
 Class |  re0 - snake |  re1 - turtle |  re2 - sea turtle |  re3 - lizard |  re4 - frilled-neck lizard |  
 --- | --- | --- | --- | --- | --- | 
-reptile |  [re0 - snake](examples/reptile/re0-snake.png) |  [re1 - turtle](examples/reptile/re1-turtle.png) |  [re2 - sea_turtle](examples/reptile/re2-sea_turtle.png) |  [re3 - lizard](examples/reptile/re3-lizard.png) |  [re4 - frilled-neck_lizard](examples/reptile/re4-frilldneck_lizard.png) |  
+reptile |  ![re0 - snake](examples/reptile/re0-snake.png) |  ![re1 - turtle](examples/reptile/re1-turtle.png) |  ![re2 - sea_turtle](examples/reptile/re2-sea_turtle.png) |  ![re3 - lizard](examples/reptile/re3-lizard.png) |  ![re4 - frilled-neck_lizard](examples/reptile/re4-frilldneck_lizard.png) |  
 
 
 Class |  re5 - monitor lizard |  re6 - chameleon |  re7 - aligator |  re8 - iguana |  re9 - gila monster |  
 --- | --- | --- | --- | --- | --- | 
-reptile | [re5 - monitor_lizard](examples/reptile/re5-monitor_lizard.png) | [re6 - chameleon](examples/reptile/re6-chameleon.png) | [re7 - aligator](examples/reptile/re7-aligator.png) | [re8 - iguana](examples/reptile/re8-iguana.png) | [re9 - gila_monster](examples/reptile/re9-gila_monster.png) | 
+reptile | ![re5 - monitor_lizard](examples/reptile/re5-monitor_lizard.png) | ![re6 - chameleon](examples/reptile/re6-chameleon.png) | ![re7 - aligator](examples/reptile/re7-aligator.png) | ![re8 - iguana](examples/reptile/re8-iguana.png) | ![re9 - gila_monster](examples/reptile/re9-gila_monster.png) | 
 
 
 Class | ve0 - car | ve1 - limo | ve2 - golf-cart | ve3 - jeep | ve4 - bus | ve5 - minibus 

@@ -19,7 +19,7 @@ This public repo contains labels for the unlabeled pictures in the stl10 dataset
 More information on the original stl10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ <br/>
 Thanks to Martin Tutek, dataset can be downloaded via the python code here: https://github.com/mttk/STL10
 
-Note: If you notice any errors and/or if you have comments/ideas relevant to this dataset or Etiqueta in general, please reach me out at ![contact@aidatalabel.com](mailto:contact@aidatalabel.com)
+Note: If you notice any errors and/or if you have comments/ideas relevant to this dataset or Etiqueta in general, please reach me out at [contact@aidatalabel.com](mailto:contact@aidatalabel.com)
 
 ## Examples
 

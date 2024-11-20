@@ -187,15 +187,16 @@
     "soapbox car": "ve26"
   },
   "watercraft": {
-    "wooden boat": "wa",
-    "jet boat": "wa",
-    "catamaran boat": "wa",
-    "yacht": "wa",
-    "jetski": "wa",
-    "sail boat": "wa",
-    "sail ship": "wa",
-    "cruise ship": "wa",
-    "military ship": "wa",
-    "cargo ship": "wa"
+    "wooden boat": "wa0",
+    "jet boat": "wa1",
+    "catamaran boat": "wa2",
+    "yacht": "wa3",
+    "jetski": "wa4",
+    "sail boat": "wa5",
+    "sail ship": "wa6",
+    "cruise ship": "wa7",
+    "military ship": "wa8",
+    "cargo ship": "wa9",
+    "other ship": "wa10"
   }
 }

@@ -89,7 +89,8 @@
     "skull": "ou5",
     "moth": "ou6",
     "car-interior": "ou7",
-    "train-interior": "ou8"
+    "train-interior": "ou8",
+    "ship-interior": "ou9"
   },
   "primate": {
     "monkey": "pri0",
@@ -197,6 +198,7 @@
     "cruise ship": "wa7",
     "military ship": "wa8",
     "cargo ship": "wa9",
-    "other ship": "wa10"
+    "other ship": "wa10",
+    "submarine": "wa11"
   }
 }

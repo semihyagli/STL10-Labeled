@@ -10,11 +10,19 @@
     "zeppelin": "ai7",
     "spaceship": "ai8"
   },
-  "antelopes": {
-    "gazelle": "an",
-    "impala": "an",
-    "oryx": "an",
-    "kudu": "an"
+  "antelope": {
+    "antelope": "an0",
+    "wildebeest": "an1",
+    "oryx": "an2",
+    "dikdik": "an3",
+    "eland": "an4",
+    "kudu": "an5",
+    "springbok": "an6",
+    "hartebeest": "an7",
+    "waterbuck": "an8",
+    "blackbuck": "an9",
+    "gazelle": "an10",
+    "impala": "an11"
   },
   "bird": {
     "bird": "bi0",
@@ -99,7 +107,7 @@
     "tarsier": "pri3",
     "gorilla": "pri4",
     "mandrill": "pri5",
-    "orangutan": "pri6", 
+    "orangutan": "pri6",
     "proboscis": "pri7",
     "tamarin": "pri8",
     "colobus": "pri9",
@@ -135,15 +143,13 @@
     "vole": "ro7"
   },
   "ruminant": {
-    "cattle": "ru",
-    "sheep (male)": "ru",
-    "sheep (female)": "ru",
-    "goat (male)": "ru",
-    "goat (female)": "ru",
-    "deer (male)": "ru",
-    "deer (female)": "ru",
-    "pronghorn": "ru",
-    "giraffe": "ru"
+    "deer": "ru0",
+    "pronghorn": "ru1",
+    "cattle": "ru2",
+    "sheep": "ru3",
+    "goat": "ru4",
+    "markhor": "ru5",
+    "giraffe": "ru6"
   },
   "swine": {
     "pig": "sw",

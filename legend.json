@@ -155,7 +155,8 @@
     "sheep": "ru3",
     "goat": "ru4",
     "markhor": "ru5",
-    "giraffe": "ru6"
+    "giraffe": "ru6",
+    "takin": "ru7"
   },
   "swine": {
     "pig": "sw",

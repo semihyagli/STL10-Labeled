@@ -17,12 +17,13 @@
     "dikdik": "an3",
     "eland": "an4",
     "kudu": "an5",
-    "springbok": "an6",
-    "hartebeest": "an7",
-    "waterbuck": "an8",
-    "blackbuck": "an9",
-    "gazelle": "an10",
-    "impala": "an11"
+    "gerenuk": "an6",
+    "springbok": "an7",
+    "hartebeest": "an8",
+    "waterbuck": "an9",
+    "blackbuck": "an10",
+    "gazelle": "an11",
+    "impala": "an12"
   },
   "bird": {
     "bird": "bi0",

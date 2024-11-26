@@ -38,6 +38,10 @@
     "panda bear": "be",
     "red panda": "be"
   },
+  "camelid" : {
+    "camel": "cam0",
+    "lama": "cam1"
+  },
   "canine": {
     "dog": "ca0",
     "fox": "ca1",

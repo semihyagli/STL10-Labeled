@@ -28,6 +28,14 @@ Class | ai0 - passenger plane | ai1 - small plane | ai2 - sea plane | ai3 - mili
 airplane | ![ai0 - passenger plane](examples/airplane/ai0-passenger%20plane.png) | ![ai1 - small plane](examples/airplane/ai1-small%20plane.png) | ![ai2 - sea plane](examples/airplane/ai2-sea%20plane.png) | ![ai3 - military plane](examples/airplane/ai3-military%20plane.png) | ![ai4 - toy plane](examples/airplane/ai4-toy%20plane.png) | ![ai5 - helicopter](examples/airplane/ai5-helicopter.png) | ![ai6 - balloon](examples/airplane/ai6-balloon.png) | ![ai7 - zeppelin](examples/airplane/ai7-zeppelin.png) | 
 
 
+Class | an0 - antelope | an1 - wildebeest | an2 - oryx | an3 - dikdik |
+--- | --- | --- | --- | --- |
+antelope | ![an0-antelope](examples/antelope/an0-antelope.png) | ![an1-wildebeest](examples/antelope/an1-wildebeest.png) | ![an2-oryx](examples/antelope/an2-oryx.png) | ![an3-dikdik](examples/antelope/an3-dikdik.png) | 
+
+Class | an4 - eland | an5 - kudu | an6 - gerenuk | 
+--- | --- | --- | --- |
+antelope | ![an4-eland](examples/antelope/an4-eland.png) | ![an5-kudu](examples/antelope/an5-kudu.png) | ![an6-gerenuk](examples/antelope/an6-gerenuk.png) | 
+
 
 Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
 --- | --- | --- | --- | --- | --- | --- | --- |
@@ -67,6 +75,9 @@ Class |  re5 - monitor lizard |  re6 - chameleon |  re7 - aligator |  re8 - igua
 --- | --- | --- | --- | --- | --- | 
 reptile | ![re5 - monitor_lizard](examples/reptile/re5-monitor_lizard.png) | ![re6 - chameleon](examples/reptile/re6-chameleon.png) | ![re7 - aligator](examples/reptile/re7-aligator.png) | ![re8 - iguana](examples/reptile/re8-iguana.png) | ![re9 - gila_monster](examples/reptile/re9-gila_monster.png) | 
 
+Class | tr0 - train | tr1 - tram | 
+--- | --- | --- | 
+train | ![tr0 - train](/examples/train/tr0-train.png) | ![tr1 - tram](/examples/train/tr1-tram.png) | 
 
 Class | ve0 - car | ve1 - limo | ve2 - golf-cart | ve3 - jeep | ve4 - bus | ve5 - minibus 
 --- | --- | --- | --- | --- | --- | --- |
@@ -89,11 +100,15 @@ Class | ve21 - full-track tank | ve22 - half-track car | ve23 - bumper car | ve2
 vehicle | ![ve21 - full-track tank](examples/vehicle/ve21-full-track_tank.png) | ![ve22 - half-track car](examples/vehicle/ve22-half-track_car.png) | ![ve23 - bumper car](examples/vehicle/ve23-bumper_car.png) | ![ve24 - go-kart](examples/vehicle/ve24-go-kart.png) | ![ve25 - amphibious car](examples/vehicle/ve25-amphibious_car.png) | ![ve26 - soapbox car](examples/vehicle/ve26-soapbox_car.png) |
 
 
+Class | wa0 - wooden boat | wa1 - jet boat | wa2 - catamaran boat | wa3 - yacht | wa4 - jetski | 
+--- | --- | --- | --- | --- | --- |
+watercraft | ![wa0-wooden_boat](examples/watercraft/wa0-wooden_boat.png) | ![wa1-jet_boat](examples/watercraft/wa1-jet_boat.png) | ![wa2-catamaran_boat](examples/watercraft/wa2-catamaran_boat.png) | ![wa3-yacht](examples/watercraft/wa3-yacht.png) | ![wa4-jetski](examples/watercraft/wa4-jetski.png) | 
 
+Class | wa5 - sail boat | wa6 - other boat | wa7 - sail ship | wa8 - cruise ship | 
+--- | --- | --- | --- | --- |
+watercraft | ![wa5-sail_boat](examples/watercraft/wa5-sail_boat.png) | ![wa6-other_boat](examples/watercraft/wa6-other_boat.png) | ![wa7-sail_ship](examples/watercraft/wa7-sail_ship.png) | ![wa8-cruise_ship](examples/watercraft/wa8-cruise_ship.png) | 
 
-
-
-
-
-
+Class | wa9 - military ship | wa10 - cargo ship | wa11 - other ship | wa12 - submarine | 
+--- | --- | --- | --- | --- |
+watercraft | ![wa9-military_ship](examples/watercraft/wa9-military_ship.png) | ![wa10-cargo_ship](examples/watercraft/wa10-cargo_ship.png) | ![wa11-other_ship](examples/watercraft/wa11-other_ship.png) | ![wa12-submarine](examples/watercraft/wa12-submarine.png) | 
 

@@ -141,7 +141,8 @@
     "squirrel": "ro4",
     "rabbit": "ro5",
     "pika": "ro6",
-    "vole": "ro7"
+    "vole": "ro7",
+    "mouse-deer": "ro8"
   },
   "ruminant": {
     "deer": "ru0",

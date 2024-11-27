@@ -183,8 +183,8 @@
     "minivan": "ve6",
     "van": "ve7",
     "caravan": "ve8",
-    "ambulance_van": "ve9",
-    "ambulance_truck": "ve10",
+    "tow truck": "ve9",
+    "smallbox truck": "ve10",
     "garbage truck": "ve11",
     "firetruck": "ve12",
     "car carrier trailer": "ve13",
@@ -200,7 +200,8 @@
     "bumper car": "ve23",
     "go-kart": "ve24",
     "amphibious car": "ve25",
-    "soapbox car": "ve26"
+    "soapbox car": "ve26",
+    "forklift": "ve27"
   },
   "watercraft": {
     "wooden boat": "wa0",

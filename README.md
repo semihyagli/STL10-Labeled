@@ -75,6 +75,16 @@ Class |  re5 - monitor lizard |  re6 - chameleon |  re7 - aligator |  re8 - igua
 --- | --- | --- | --- | --- | --- | 
 reptile | ![re5 - monitor_lizard](examples/reptile/re5-monitor_lizard.png) | ![re6 - chameleon](examples/reptile/re6-chameleon.png) | ![re7 - aligator](examples/reptile/re7-aligator.png) | ![re8 - iguana](examples/reptile/re8-iguana.png) | ![re9 - gila_monster](examples/reptile/re9-gila_monster.png) | 
 
+
+Class | ru0 - deer | ru1 - pronghorn | ru2 - cattle | ru3 - sheep | ru4 - goat | 
+--- | --- | --- | --- | --- | --- |
+ruminant | ![ru0-deer](examples/ruminant/ru0-deer.png) | ![ru1-pronghorn](examples/ruminant/ru1-pronghorn.png) | ![ru2-cattle](examples/ruminant/ru2-cattle.png) | ![ru3-sheep](examples/ruminant/ru3-sheep.png) | ![ru4-goat](examples/ruminant/ru4-goat.png) | 
+
+Class | ru5 - markhor | ru6 - giraffe | ru7 - takin | ru8 - serow | 
+--- | --- | --- | --- | --- |
+ruminant | ![ru5-markhor](examples/ruminant/ru5-markhor.png) | ![ru6-giraffe](examples/ruminant/ru6-giraffe.png) | ![ru7-takin](examples/ruminant/ru7-takin.png) | ![ru8-serow](examples/ruminant/ru8-serow.png)
+
+
 Class | tr0 - train | tr1 - tram | 
 --- | --- | --- | 
 train | ![tr0 - train](/examples/train/tr0-train.png) | ![tr1 - tram](/examples/train/tr1-tram.png) | 

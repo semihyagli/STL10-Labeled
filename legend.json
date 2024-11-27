@@ -146,7 +146,8 @@
     "rabbit": "ro5",
     "pika": "ro6",
     "vole": "ro7",
-    "mouse-deer": "ro8"
+    "mouse-deer": "ro8",
+    "agouti": "ro9"
   },
   "ruminant": {
     "deer": "ru0",
@@ -156,7 +157,8 @@
     "goat": "ru4",
     "markhor": "ru5",
     "giraffe": "ru6",
-    "takin": "ru7"
+    "takin": "ru7",
+    "serow": "ru8"
   },
   "swine": {
     "pig": "sw",

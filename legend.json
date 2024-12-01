@@ -86,6 +86,14 @@
     "jaguar": "fe10",
     "cougar": "fe11"
   },
+  "heavy machinery":{
+    "tractor": "mac0",
+    "excavator": "mac1",
+    "rolling compactor": "mac2",
+    "full-track tank": "mac3",
+    "half-track car": "mac4",
+    "forklift": "mac5"
+  },
   "mustelinae": {
     "badger": "mu",
     "weasel": "mu",
@@ -168,6 +176,20 @@
     "train": "tr0",
     "tram": "tr1"
   },
+  "truck": {
+    "truck-general": "tru0",
+    "bobtail truck": "tru1",
+    "freight truck": "tru2",
+    "gravel truck": "tru3",
+    "smallbox truck": "tru4",
+    "mini truck": "tru5",
+    "pickup truck": "tru6",
+    "car carrier trailer": "tru7",
+    "garbage truck": "tru8",
+    "firetruck": "tru9",
+    "tow truck": "tru10",
+    "snowplow": "tru11"
+  },
   "utility": {
     "shopping cart": "ut",
     "dolly": "ut",
@@ -183,25 +205,10 @@
     "minivan": "ve6",
     "van": "ve7",
     "caravan": "ve8",
-    "tow truck": "ve9",
-    "smallbox truck": "ve10",
-    "garbage truck": "ve11",
-    "firetruck": "ve12",
-    "car carrier trailer": "ve13",
-    "freight truck": "ve14",
-    "gravel truck": "ve15",
-    "mini truck": "ve16",
-    "pickup truck": "ve17",
-    "tractor": "ve18",
-    "excavator": "ve19",
-    "rolling compactor": "ve20",
-    "full-track tank": "ve21", 
-    "half-track car": "ve22",
-    "bumper car": "ve23",
-    "go-kart": "ve24",
-    "amphibious car": "ve25",
-    "soapbox car": "ve26",
-    "forklift": "ve27"
+    "bumper car": "ve9",
+    "go-kart": "ve10",
+    "amphibious car": "ve11",
+    "soapbox car": "ve12"
   },
   "watercraft": {
     "wooden boat": "wa0",

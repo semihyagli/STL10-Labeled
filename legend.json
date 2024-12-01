@@ -28,8 +28,7 @@
   "bird": {
     "bird": "bi0",
     "chicken": "bi1",
-    "duck": "bi2",
-    "eagle": "bi3"
+    "duck": "bi2"
   },
   "bear": {
     "black bear": "be",
@@ -191,9 +190,9 @@
     "snowplow": "tru11"
   },
   "utility": {
-    "shopping cart": "ut",
-    "dolly": "ut",
-    "wheel barrow": "ut"
+    "shopping cart": "ut0",
+    "dolly": "ut1",
+    "wheel barrow": "ut2"
   },
   "vehicle": {
     "car": "ve0",

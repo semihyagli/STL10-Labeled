@@ -31,11 +31,11 @@
     "duck": "bi2"
   },
   "bear": {
-    "black bear": "be",
-    "brown bear": "be",
-    "polar bear": "be",
-    "panda bear": "be",
-    "red panda": "be"
+    "black bear": "be0",
+    "brown bear": "be1",
+    "polar bear": "be2",
+    "panda bear": "be3",
+    "red panda": "be4"
   },
   "camelid" : {
     "camel": "cam0",
@@ -168,8 +168,8 @@
     "serow": "ru8"
   },
   "swine": {
-    "pig": "sw",
-    "boar": "sw"
+    "pig": "sw0",
+    "boar": "sw1"
   },
   "train": {
     "train": "tr0",

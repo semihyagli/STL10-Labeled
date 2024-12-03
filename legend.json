@@ -53,7 +53,8 @@
   "carriage": {
     "horse carriage": "car0",
     "cattle carriage": "car1",
-    "human carriage": "car2"
+    "human carriage": "car2",
+    "other carriage": "car3"
   },
   "cetacean": {
     "dolphin": "ce0",
@@ -192,7 +193,9 @@
   "utility": {
     "shopping cart": "ut0",
     "dolly": "ut1",
-    "wheel barrow": "ut2"
+    "wheel barrow": "ut2",
+    "buffet trolley": "ut3",
+    "laundry cart": "ut4"
   },
   "vehicle": {
     "car": "ve0",

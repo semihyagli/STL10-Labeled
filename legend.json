@@ -54,7 +54,8 @@
     "horse carriage": "car0",
     "cattle carriage": "car1",
     "human carriage": "car2",
-    "other carriage": "car3"
+    "donkey carriage": "car3",
+    "other carriage": "car4"
   },
   "cetacean": {
     "dolphin": "ce0",

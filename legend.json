@@ -96,11 +96,11 @@
     "forklift": "mac5"
   },
   "mustelinae": {
-    "badger": "mu",
-    "weasel": "mu",
-    "polecat": "mu",
-    "ferret": "mu",
-    "mink": "mu"
+    "badger": "mu0",
+    "weasel": "mu1",
+    "polecat": "mu2",
+    "ferret": "mu3",
+    "mink": "mu4"
   },
   "outlier": {
     "restaurant": "ou0",
@@ -211,7 +211,8 @@
     "bumper car": "ve9",
     "go-kart": "ve10",
     "amphibious car": "ve11",
-    "soapbox car": "ve12"
+    "soapbox car": "ve12",
+    "mini caravan": "ve13"
   },
   "watercraft": {
     "wooden boat": "wa0",

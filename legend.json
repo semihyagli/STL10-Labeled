@@ -25,6 +25,9 @@
     "gazelle": "an11",
     "impala": "an12"
   },
+  "bat": {
+    "bat": "ba0"
+  },
   "bird": {
     "bird": "bi0",
     "chicken": "bi1",
@@ -156,7 +159,8 @@
     "pika": "ro6",
     "vole": "ro7",
     "mouse-deer": "ro8",
-    "agouti": "ro9"
+    "agouti": "ro9",
+    "jerboa": "ro10"
   },
   "ruminant": {
     "deer": "ru0",

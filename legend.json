@@ -88,7 +88,8 @@
     "lynx": "fe8",
     "bearcat": "fe9",
     "jaguar": "fe10",
-    "cougar": "fe11"
+    "cougar": "fe11",
+    "civet": "fe12"
   },
   "heavy machinery":{
     "tractor": "mac0",

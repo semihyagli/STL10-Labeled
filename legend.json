@@ -25,9 +25,6 @@
     "gazelle": "an11",
     "impala": "an12"
   },
-  "bat": {
-    "bat": "ba0"
-  },
   "bird": {
     "bird": "bi0",
     "chicken": "bi1",
@@ -89,7 +86,8 @@
     "bearcat": "fe9",
     "jaguar": "fe10",
     "cougar": "fe11",
-    "civet": "fe12"
+    "civet": "fe12", 
+    "mongoose": "fe13"
   },
   "heavy machinery":{
     "tractor": "mac0",
@@ -117,6 +115,11 @@
     "car-interior": "ou7",
     "train-interior": "ou8",
     "ship-interior": "ou9"
+  },
+  "other mammals": {
+    "bat": "om0",
+    "elephant": "om1",
+    "hyrax": "om2"
   },
   "primate": {
     "monkey": "pri0",
@@ -161,7 +164,8 @@
     "vole": "ro7",
     "mouse-deer": "ro8",
     "agouti": "ro9",
-    "jerboa": "ro10"
+    "jerboa": "ro10",
+    "marmot": "ro11"
   },
   "ruminant": {
     "deer": "ru0",

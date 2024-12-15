@@ -8,7 +8,9 @@
     "helicopter": "ai5",
     "balloon": "ai6",
     "zeppelin": "ai7",
-    "spaceship": "ai8"
+    "spaceship": "ai8",
+    "other balloon": "ai9",
+    "kite": "ai10"
   },
   "antelope": {
     "antelope": "an0",

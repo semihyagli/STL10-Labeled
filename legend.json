@@ -104,7 +104,9 @@
     "weasel": "mu1",
     "polecat": "mu2",
     "ferret": "mu3",
-    "mink": "mu4"
+    "mink": "mu4",
+    "wolverine": "mu5",
+    "tayra": "mu6"
   },
   "outlier": {
     "restaurant": "ou0",
@@ -122,7 +124,10 @@
   "other mammals": {
     "bat": "om0",
     "elephant": "om1",
-    "hyrax": "om2"
+    "hyrax": "om2",
+    "seal": "om3",
+    "hippo": "om4",
+    "tapir": "om5"
   },
   "primate": {
     "monkey": "pri0",
@@ -183,7 +188,9 @@
   },
   "swine": {
     "pig": "sw0",
-    "boar": "sw1"
+    "boar": "sw1",
+    "warthog": "sw2",
+    "babirusa": "sw3"
   },
   "train": {
     "train": "tr0",

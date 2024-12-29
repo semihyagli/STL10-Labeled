@@ -97,7 +97,8 @@
     "rolling compactor": "mac2",
     "full-track tank": "mac3",
     "half-track car": "mac4",
-    "forklift": "mac5"
+    "forklift": "mac5",
+    "rocket": "mac6"
   },
   "mustelinae": {
     "badger": "mu0",
@@ -106,7 +107,8 @@
     "ferret": "mu3",
     "mink": "mu4",
     "wolverine": "mu5",
-    "tayra": "mu6"
+    "tayra": "mu6",
+    "skunk": "mu7"
   },
   "outlier": {
     "restaurant": "ou0",
@@ -127,7 +129,9 @@
     "hyrax": "om2",
     "seal": "om3",
     "hippo": "om4",
-    "tapir": "om5"
+    "tapir": "om5",
+    "anteater": "om6",
+    "armadillo": "om7"
   },
   "primate": {
     "monkey": "pri0",

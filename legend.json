@@ -41,7 +41,7 @@
   },
   "camelid" : {
     "camel": "cam0",
-    "lama": "cam1"
+    "lama/alpaca": "cam1"
   },
   "canine": {
     "dog": "ca0",
@@ -67,7 +67,8 @@
     "motorcycle": "cy0",
     "monocycle": "cy1",
     "bicycle": "cy2",
-    "tricycle": "cy3"
+    "tricycle": "cy3",
+    "snowmobile": "cy4"
   },
   "equine": {
     "horse": "eq0",
@@ -102,7 +103,7 @@
   },
   "mustelinae": {
     "badger": "mu0",
-    "weasel": "mu1",
+    "weasel/stoat": "mu1",
     "polecat": "mu2",
     "ferret": "mu3",
     "mink": "mu4",
@@ -131,7 +132,9 @@
     "hippo": "om4",
     "tapir": "om5",
     "anteater": "om6",
-    "armadillo": "om7"
+    "armadillo": "om7",
+    "dugong/manatee": "om8",
+    "sea lion": "om9"
   },
   "primate": {
     "monkey": "pri0",
@@ -219,7 +222,8 @@
     "dolly": "ut1",
     "wheel barrow": "ut2",
     "buffet trolley": "ut3",
-    "laundry cart": "ut4"
+    "laundry cart": "ut4",
+    "stroller": "ut5"
   },
   "vehicle": {
     "car": "ve0",

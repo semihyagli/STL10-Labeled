@@ -61,7 +61,8 @@
   },
   "cetacean": {
     "dolphin": "ce0",
-    "whale": "ce1"
+    "whale": "ce1",
+    "narwhal": "ce2"
   },
   "cycle": {
     "motorcycle": "cy0",
@@ -122,19 +123,20 @@
     "car-interior": "ou7",
     "train-interior": "ou8",
     "ship-interior": "ou9",
-    "japanese giant salamender": "ou10"
+    "japanese giant salamender": "ou10",
+    "tambaqui fish": "ou11"
   },
   "other mammals": {
     "bat": "om0",
     "elephant": "om1",
     "hyrax": "om2",
-    "seal": "om3",
+    "seal/sea lion": "om3",
     "hippo": "om4",
     "tapir": "om5",
     "anteater": "om6",
     "armadillo": "om7",
     "dugong/manatee": "om8",
-    "sea lion": "om9"
+    "walrus": "om9" 
   },
   "primate": {
     "monkey": "pri0",

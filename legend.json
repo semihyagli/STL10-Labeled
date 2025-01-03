@@ -69,13 +69,16 @@
     "monocycle": "cy1",
     "bicycle": "cy2",
     "tricycle": "cy3",
-    "snowmobile": "cy4"
+    "snowmobile": "cy4",
+    "skateboard": "cy5",
+    "scooter": "cy6"
   },
   "equine": {
     "horse": "eq0",
     "donkey": "eq1",
     "onager": "eq2",
-    "zorse": "eq3"
+    "zorse": "eq3",
+    "zebra": "eq4"
   },
   "feline": {
     "cat": "fe0",
@@ -91,7 +94,8 @@
     "jaguar": "fe10",
     "cougar": "fe11",
     "civet": "fe12", 
-    "mongoose": "fe13"
+    "mongoose": "fe13",
+    "genet": "fe14"
   },
   "heavy machinery":{
     "tractor": "mac0",
@@ -110,7 +114,8 @@
     "mink": "mu4",
     "wolverine": "mu5",
     "tayra": "mu6",
-    "skunk": "mu7"
+    "skunk": "mu7",
+    "otter": "mu8"
   },
   "outlier": {
     "restaurant": "ou0",
@@ -124,7 +129,8 @@
     "train-interior": "ou8",
     "ship-interior": "ou9",
     "japanese giant salamender": "ou10",
-    "tambaqui fish": "ou11"
+    "tambaqui fish": "ou11",
+    "seahorse": "ou12"
   },
   "other mammals": {
     "bat": "om0",
@@ -136,7 +142,9 @@
     "anteater": "om6",
     "armadillo": "om7",
     "dugong/manatee": "om8",
-    "walrus": "om9" 
+    "walrus": "om9",
+    "human": "om10",
+    "rhino": "om11"
   },
   "primate": {
     "monkey": "pri0",
@@ -156,7 +164,7 @@
     "raccoon": "pr0",
     "ringtail": "pr1",
     "coati": "pr2",
-    "kinkajoo": "pr3"
+    "kinkajou": "pr3"
   },
   "reptile": {
     "snake": "re0",
@@ -182,7 +190,8 @@
     "mouse-deer": "ro8",
     "agouti": "ro9",
     "jerboa": "ro10",
-    "marmot": "ro11"
+    "marmot": "ro11",
+    "nutria": "ro12"
   },
   "ruminant": {
     "deer": "ru0",

@@ -106,6 +106,9 @@
     "forklift": "mac5",
     "rocket": "mac6"
   },
+  "marine mammals": {
+
+  },
   "mustelinae": {
     "badger": "mu0",
     "weasel/stoat": "mu1",
@@ -115,7 +118,8 @@
     "wolverine": "mu5",
     "tayra": "mu6",
     "skunk": "mu7",
-    "otter": "mu8"
+    "otter": "mu8",
+    "marten": "mu9"
   },
   "outlier": {
     "restaurant": "ou0",
@@ -144,7 +148,9 @@
     "dugong/manatee": "om8",
     "walrus": "om9",
     "human": "om10",
-    "rhino": "om11"
+    "rhino": "om11",
+    "pangolin": "om12",
+    "possum": "om13" 
   },
   "primate": {
     "monkey": "pri0",
@@ -202,7 +208,8 @@
     "markhor": "ru5",
     "giraffe": "ru6",
     "takin": "ru7",
-    "serow": "ru8"
+    "serow": "ru8",
+    "goral": "ru9"
   },
   "swine": {
     "pig": "sw0",

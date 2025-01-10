@@ -95,7 +95,8 @@
     "cougar": "fe11",
     "civet": "fe12", 
     "mongoose": "fe13",
-    "genet": "fe14"
+    "genet": "fe14",
+    "puma": "fe15"
   },
   "heavy machinery":{
     "tractor": "mac0",
@@ -197,7 +198,9 @@
     "agouti": "ro9",
     "jerboa": "ro10",
     "marmot": "ro11",
-    "nutria": "ro12"
+    "nutria": "ro12",
+    "chinchilla": "ro13",
+    "shrew": "ro14"
   },
   "ruminant": {
     "deer": "ru0",
@@ -241,7 +244,8 @@
     "wheel barrow": "ut2",
     "buffet trolley": "ut3",
     "laundry cart": "ut4",
-    "stroller": "ut5"
+    "stroller": "ut5", 
+    "other utility": "ut6"
   },
   "vehicle": {
     "car": "ve0",

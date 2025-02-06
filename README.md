@@ -122,3 +122,9 @@ Class | wa9 - military ship | wa10 - cargo ship | wa11 - other ship | wa12 - sub
 --- | --- | --- | --- | --- |
 watercraft | ![wa9-military_ship](examples/watercraft/wa9-military_ship.png) | ![wa10-cargo_ship](examples/watercraft/wa10-cargo_ship.png) | ![wa11-other_ship](examples/watercraft/wa11-other_ship.png) | ![wa12-submarine](examples/watercraft/wa12-submarine.png) | 
 
+
+
+antelope will be redone <br/>
+'rat' in 0-35k --> separate chincilla <br/>
+'cat' in 0-35k --> separate civet  and genet <br/>
+'cougar' --> will be moved to lion, because of lack of clarity <br/>

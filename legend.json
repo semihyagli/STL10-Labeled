@@ -25,7 +25,10 @@
     "waterbuck": "an9",
     "blackbuck": "an10",
     "gazelle": "an11",
-    "impala": "an12"
+    "impala": "an12",
+    "saiga": "an13",
+    "addax": "an14",
+    "kob": "an15"
   },
   "bird": {
     "bird": "bi0",

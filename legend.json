@@ -207,7 +207,8 @@
     "nutria": "ro12",
     "chinchilla": "ro13",
     "shrew": "ro14",
-    "paca": "ro15"
+    "paca": "ro15",
+    "lemming": "ro16"
   },
   "ruminant": {
     "deer": "ru0",

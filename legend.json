@@ -155,7 +155,8 @@
     "human": "om10",
     "rhino": "om11",
     "pangolin": "om12",
-    "possum": "om13" 
+    "possum": "om13",
+    "aardvark": "om14"
   },
   "primate": {
     "monkey": "pri0",
@@ -204,7 +205,8 @@
     "marmot": "ro11",
     "nutria": "ro12",
     "chinchilla": "ro13",
-    "shrew": "ro14"
+    "shrew": "ro14",
+    "paca": "ro15"
   },
   "ruminant": {
     "deer": "ru0",

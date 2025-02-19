@@ -208,7 +208,8 @@
     "chinchilla": "ro13",
     "shrew": "ro14",
     "paca": "ro15",
-    "lemming": "ro16"
+    "lemming": "ro16",
+    "hedgehog": "ro17"
   },
   "ruminant": {
     "deer": "ru0",

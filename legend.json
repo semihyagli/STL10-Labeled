@@ -6,7 +6,7 @@
     "military plane": "ai3",
     "toy plane": "ai4",
     "helicopter": "ai5",
-    "balloon": "ai6",
+    "hot air balloon": "ai6",
     "zeppelin": "ai7",
     "spaceship": "ai8",
     "other balloon": "ai9",
@@ -254,7 +254,8 @@
     "buffet trolley": "ut3",
     "laundry cart": "ut4",
     "stroller": "ut5", 
-    "other utility": "ut6"
+    "other utility": "ut6",
+    "sleigh": "ut7"
   },
   "vehicle": {
     "car": "ve0",

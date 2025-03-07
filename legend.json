@@ -65,7 +65,8 @@
   "cetacean": {
     "dolphin": "ce0",
     "whale": "ce1",
-    "narwhal": "ce2"
+    "narwhal": "ce2",
+    "vaquita": "ce3"
   },
   "cycle": {
     "motorcycle": "cy0",

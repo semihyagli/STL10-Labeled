@@ -159,7 +159,8 @@
     "rhino": "om11",
     "pangolin": "om12",
     "possum": "om13",
-    "aardvark": "om14"
+    "aardvark": "om14",
+    "tasmanian devil": "om15"
   },
   "primate": {
     "monkey": "pri0",
@@ -179,7 +180,8 @@
     "raccoon": "pr0",
     "ringtail": "pr1",
     "coati": "pr2",
-    "kinkajou": "pr3"
+    "kinkajou": "pr3",
+    "olinguito": "pr4"
   },
   "reptile": {
     "snake": "re0",

@@ -160,7 +160,8 @@
     "pangolin": "om12",
     "possum": "om13",
     "aardvark": "om14",
-    "tasmanian devil": "om15"
+    "tasmanian devil": "om15",
+    "sloth": "om16"
   },
   "primate": {
     "monkey": "pri0",

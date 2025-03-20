@@ -14,8 +14,8 @@ You can also sponsor us by downloading our free application, **_Etiqueta_**, to 
 
 
 This public repo contains labels for the unlabeled pictures in the stl10 dataset. <br/>
-More information on the original stl10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ <br/>
-Thanks to Martin Tutek, dataset can be downloaded via the python code here: https://github.com/mttk/STL10
+More information on the original STL-10 dataset can be found here: https://cs.stanford.edu/~acoates/stl10/ <br/>
+Thanks to Martin Tutek, the original STL-10 dataset can be downloaded via the python code here: https://github.com/mttk/STL10
 
 If you use this dataset in your research please do not forget to cite: <br/>
 
@@ -43,6 +43,28 @@ If you use this dataset in your research please do not forget to cite: <br/>
 ```
 
 Note: If you notice any errors and/or if you have comments/ideas relevant to this dataset or Etiqueta in general, please reach me out at [contact@aidatalabel.com](mailto:contact@aidatalabel.com).
+
+## Instructions 
+To download the dataset, run:
+```
+python stl10
+```
+1. This will create a folder named `data` download and extract the stl10 dataset inside that folder. 
+2. Then it will show one example picture in a new window.
+3. Once you close this example picture, images will then be saved to disk under a folder called `img`
+
+If you just want to load images as `numpy.array`:
+```
+import stl10
+images = read_all_images(DATA_PATH_TO_BINARY_FILE)
+```
+where by default `DATA_PATH_TO_BINARY_FILE` can be either of the following: <br/>
+* `./data/stl10_binary/test_X.bin`
+* `./data/stl10_binary/train_X.bin`
+* `./data/stl10_binary/unlabeled_X.bin`
+
+This repo specifically contains the labels for the images inside `unlabeled_X.bin`
+
 
 ## Examples
 
@@ -148,6 +170,7 @@ watercraft | ![wa9-military_ship](examples/watercraft/wa9-military_ship.png) | !
 
 
 antelope will be redone <br/>
-'rat' in 0-35k --> separate chincilla <br/>
-'cat' in 0-35k --> separate civet  and genet <br/>
-'cougar' --> will be moved to lion, because of lack of clarity <br/>
+`rat` in 0-35k --> separate chincilla <br/>
+`cat` in 0-35k --> separate civet  and genet <br/>
+`cougar` --> may be moved to lion, because of lack of clarity <br/>
+`fe15` until 75k, there should only be 1.

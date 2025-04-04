@@ -125,7 +125,8 @@
     "tayra": "mu6",
     "skunk": "mu7",
     "otter": "mu8",
-    "marten": "mu9"
+    "marten": "mu9",
+    "fisher": "mu10"
   },
   "outlier": {
     "restaurant": "ou0",
@@ -161,7 +162,8 @@
     "possum": "om13",
     "aardvark": "om14",
     "tasmanian devil": "om15",
-    "sloth": "om16"
+    "sloth": "om16",
+    "porpoise": "om17"
   },
   "primate": {
     "monkey": "pri0",
@@ -175,7 +177,8 @@
     "tamarin": "pri8",
     "colobus": "pri9",
     "ape": "pri10",
-    "marmoset": "pri11"
+    "marmoset": "pri11",
+    "colugo": "pri12"
   },
   "procyonid": {
     "raccoon": "pr0",

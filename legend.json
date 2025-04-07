@@ -61,7 +61,8 @@
     "cattle carriage": "car1",
     "human carriage": "car2",
     "donkey carriage": "car3",
-    "other carriage": "car4"
+    "goat carriage": "car4",
+    "other carriage": "car5"
   },
   "cetacean": {
     "dolphin": "ce0",
@@ -83,7 +84,8 @@
     "donkey": "eq1",
     "onager": "eq2",
     "zorse": "eq3",
-    "zebra": "eq4"
+    "zebra": "eq4",
+    "okapi": "eq5"
   },
   "feline": {
     "cat": "fe0",

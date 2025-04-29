@@ -88,9 +88,17 @@ Class | an12 - impala | an13 - saiga | an14 - addax | an15 - kob | an16 - topi |
 --- | --- | --- | --- | --- | --- |
 antelope | ![an12 - impala](examples/antelope/an12-impala.png) | ![an13 - saiga](examples/antelope/an13-saiga.png) | ![an14 - addax](examples/antelope/an14-addax.png) | ![an15 - kob](examples/antelope/an15-kob.png) | ![an16 - topi](examples/antelope/an16-topi.png) | 
 
+Class | be0 - black bear | be1 - brown bear | be2 - polar bear | be3 - panda bear | be4 - red panda | 
+--- | --- | --- | --- | --- | --- | 
+bear | ![be0 - black bear](examples/bear/be0-black_bear.png) | ![be1 - brown bear](examples/bear/be1-brown_bear.png) | ![be2 - polar bear](examples/bear/be2-polar_bear.png) | ![be3 - panda bear](examples/bear/be3-panda_bear.png) | ![be4 - red panda](examples/bear/be4-red_panda.png) | 
+
 Class | bi0 - bird | bi1 - chicken | bi2 - duck | 
 --- | --- | --- | --- | 
 bird | ![bi0 - bird](examples/bird/bi0-bird.png) | ![bi1 - chicken](examples/bird/bi1-chicken.png) | ![bi2 - duck](examples/bird/bi2-duck.png) | 
+
+Class | cam0 - camel | cam1 - lama/alpaca | 
+--- | --- | --- | 
+camelid | ![cam0 - camel](examples/camelid/cam0-camel.png) | ![cam1 - lama/alpaca](examples/camelid/cam1-lama.png) | 
 
 Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
 --- | --- | --- | --- | --- | --- | --- | --- |

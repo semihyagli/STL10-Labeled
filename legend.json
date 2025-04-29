@@ -159,11 +159,11 @@
     "anteater": "om6",
     "armadillo": "om7",
     "pangolin": "om8",
-    "possum": "om13",
-    "aardvark": "om14",
-    "tasmanian devil": "om15",
-    "sloth": "om16",
-    "cuscus": "om18"
+    "aardvark": "om9",
+    "tasmanian devil": "om10",
+    "sloth": "om11",
+    "cuscus": "om12",
+    "possum": "om13"
   },
   "primate": {
     "monkey": "pri0",

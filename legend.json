@@ -114,7 +114,8 @@
     "narwhal": "mm2",
     "vaquita": "mm3",
     "dugong/manatee": "mm4",
-    "seal/sea lion": "mm5"
+    "seal/sea lion": "mm5",
+    "walrus": "mm6"
   },
   "mustelinae": {
     "badger": "mu0",
@@ -155,7 +156,6 @@
     "tapir": "om5",
     "anteater": "om6",
     "armadillo": "om7",
-    "walrus": "om9",
     "human": "om10",
     "rhino": "om11",
     "pangolin": "om12",

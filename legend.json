@@ -112,7 +112,8 @@
     "dolphin": "mm0",
     "whale": "mm1",
     "narwhal": "mm2",
-    "vaquita": "mm3"
+    "vaquita": "mm3",
+    "dugong/manatee": "mm4"
   },
   "mustelinae": {
     "badger": "mu0",
@@ -154,7 +155,6 @@
     "tapir": "om5",
     "anteater": "om6",
     "armadillo": "om7",
-    "dugong/manatee": "om8",
     "walrus": "om9",
     "human": "om10",
     "rhino": "om11",

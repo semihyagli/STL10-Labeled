@@ -88,6 +88,9 @@ Class | an12 - impala | an13 - saiga | an14 - addax | an15 - kob | an16 - topi |
 --- | --- | --- | --- | --- | --- |
 antelope | ![an12 - impala](examples/antelope/an12-impala.png) | ![an13 - saiga](examples/antelope/an13-saiga.png) | ![an14 - addax](examples/antelope/an14-addax.png) | ![an15 - kob](examples/antelope/an15-kob.png) | ![an16 - topi](examples/antelope/an16-topi.png) | 
 
+Class | bi0 - bird | bi1 - chicken | bi2 - duck | 
+--- | --- | --- | --- | 
+bird | ![bi0 - bird](examples/bird/bi0-bird.png) | ![bi1 - chicken](examples/bird/bi1-chicken.png) | ![bi2 - duck](examples/bird/bi2-duck.png) | 
 
 Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
 --- | --- | --- | --- | --- | --- | --- | --- |

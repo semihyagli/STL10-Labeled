@@ -242,17 +242,17 @@ other mammals | ![om7 - armadillo](examples/other_mammals/om7-armadillo.png) | !
 
 Class | ou0 - restaurant | ou1 - human | ou2 - multiple subject | ou3 - unknown animal | ou4 - unclear picture | ou5 - skull | 
 --- | --- | --- | --- | --- | --- | --- | 
-outlier | ![ou0 - restaurant](examples/outliers/ou0-restaurant.png) | ![ou1 - human](examples/outliers/ou1-human.png) | ![ou2 - multiple subject](examples/outliers/ou2-multiple_subject.png) | ![ou3 - unknown animal](examples/outliers/ou3-unknown_animal.png) | ![ou4 - unclear picture](examples/outliers/ou4-unclear_picture.png) | ![ou5 - skull](examples/outliers/ou5-skull.png) | 
+outlier | ![ou0 - restaurant](examples/outlier/ou0-restaurant.png) | ![ou1 - human](examples/outlier/ou1-human.png) | ![ou2 - multiple subject](examples/outlier/ou2-multiple_subject.png) | ![ou3 - unknown animal](examples/outlier/ou3-unknown_animal.png) | ![ou4 - unclear picture](examples/outlier/ou4-unclear_picture.png) | ![ou5 - skull](examples/outlier/ou5-skull.png) | 
 
 Class |  ou6 - moth |  ou7 - car-interior |  ou8 - train-interior |  ou9 - ship-interior |  ou10 - japanese giant salamander |  ou11 - tambaqui fish |  
 --- | --- | --- | --- | --- | --- | --- | 
-outlier | ![ou6 - moth](examples/outliers/ou6-moth.png) | ![ou7 - car-interior](examples/outliers/ou7-car-interior.png) | ![ou8 - train-interior](examples/outliers/ou8-train-interior.png) | ![ou9 - ship-interior](examples/outliers/ou9-ship-interior.png) | ![ou10 - japanese giant salamander](examples/outliers/ou10-japanese_giant_salamander.png) | ![ou11 - tambaqui fish](examples/outliers/ou11-tambaqui_fish.png) | 
+outlier | ![ou6 - moth](examples/outlier/ou6-moth.png) | ![ou7 - car-interior](examples/outlier/ou7-car-interior.png) | ![ou8 - train-interior](examples/outlier/ou8-train-interior.png) | ![ou9 - ship-interior](examples/outlier/ou9-ship-interior.png) | ![ou10 - japanese giant salamander](examples/outlier/ou10-japanese_giant_salamander.png) | ![ou11 - tambaqui fish](examples/outlier/ou11-tambaqui_fish.png) | 
 
 Class | ou12 - seahorse | ou13 - frog | ou14 - kangaroo | ou15 - mantis | 
 --- | --- | --- | --- | --- | 
-outlier | ![ou12 - seahorse](examples/outliers/ou12-seahorse.png) | ![ou13 - frog](examples/outliers/ou13-frog.png) | ![ou14 - kangaroo](examples/outliers/ou14-kangaroo.png) | ![ou15 - mantis](examples/outliers/ou15-mantis.png) | 
+outlier | ![ou12 - seahorse](examples/outlier/ou12-seahorse.png) | ![ou13 - frog](examples/outlier/ou13-frog.png) | ![ou14 - kangaroo](examples/outlier/ou14-kangaroo.png) | ![ou15 - mantis](examples/outlier/ou15-mantis.png) | 
 
-
+## Notes - For future Relases
 `antelope` in 0-55k will be redone <br/>
 `mouse` in 0-35k needs to be redone <br/>
 `rat` in 0-35k --> separate chincilla (needs to be redone) <br/>

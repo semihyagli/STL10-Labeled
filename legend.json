@@ -64,12 +64,6 @@
     "goat carriage": "car4",
     "other carriage": "car5"
   },
-  "cetacean": {
-    "dolphin": "ce0",
-    "whale": "ce1",
-    "narwhal": "ce2",
-    "vaquita": "ce3"
-  },
   "cycle": {
     "motorcycle": "cy0",
     "monocycle": "cy1",
@@ -115,7 +109,10 @@
     "rocket": "mac6"
   },
   "marine mammals": {
-
+    "dolphin": "mm0",
+    "whale": "mm1",
+    "narwhal": "mm2",
+    "vaquita": "mm3"
   },
   "mustelinae": {
     "badger": "mu0",

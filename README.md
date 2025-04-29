@@ -68,9 +68,13 @@ This repo specifically contains the labels for the images inside `unlabeled_X.bi
 
 ## Examples
 
-Class | ai0 - passenger plane | ai1 - small plane | ai2 - sea plane | ai3 - military plane | ai4 - toy plane | ai5 - helicopter | ai6 - balloon | ai7 - zeppelin | 
---- | --- | --- | --- | --- | --- | --- | --- | --- | 
-airplane | ![ai0 - passenger plane](examples/airplane/ai0-passenger%20plane.png) | ![ai1 - small plane](examples/airplane/ai1-small%20plane.png) | ![ai2 - sea plane](examples/airplane/ai2-sea%20plane.png) | ![ai3 - military plane](examples/airplane/ai3-military%20plane.png) | ![ai4 - toy plane](examples/airplane/ai4-toy%20plane.png) | ![ai5 - helicopter](examples/airplane/ai5-helicopter.png) | ![ai6 - balloon](examples/airplane/ai6-balloon.png) | ![ai7 - zeppelin](examples/airplane/ai7-zeppelin.png) | 
+Class |  ai0 - passenger plane |  ai1 - small plane |  ai2 - sea plane |  ai3 - military plane |  ai4 - toy plane |  ai5 - helicopter |  
+--- | --- | --- | --- | --- | --- | --- | 
+airplane | ![ai0 - passenger plane](examples/airplane/ai0-passenger%20plane.png) | ![ai1 - small plane](examples/airplane/ai1-small%20plane.png) | ![ai2 - sea plane](examples/airplane/ai2-sea%20plane.png) | ![ai3 - military plane](examples/airplane/ai3-military%20plane.png) | ![ai4 - toy plane](examples/airplane/ai4-toy%20plane.png) | ![ai5 - helicopter](examples/airplane/ai5-helicopter.png) |
+
+Class | ai6 - hot air balloon | ai7 - zeppelin | ai8 - spaceship | ai9 - other balloon | ai10 - kite | 
+--- | --- | --- | --- | --- | --- | 
+airplane |  ![ai6 - balloon](examples/airplane/ai6-balloon.png) | ![ai7 - zeppelin](examples/airplane/ai7-zeppelin.png) | ![ai8 - spaceship](examples/airplane/ai8-spaceship.png) |![ai9 - other balloon](examples/airplane/ai9-otherballoon.png) |![ai10 - kite](examples/airplane/ai10-kite.png) |
 
 
 Class | an0 - antelope | an1 - wildebeest | an2 - oryx | an3 - dikdik |

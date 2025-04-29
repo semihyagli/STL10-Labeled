@@ -233,7 +233,7 @@
   },
   "swine": {
     "pig": "sw0",
-    "boar": "sw1",
+    "boar/peccary": "sw1",
     "warthog": "sw2",
     "babirusa": "sw3"
   },

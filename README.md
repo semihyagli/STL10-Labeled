@@ -128,18 +128,41 @@ Class | fe11 - cougar | fe12 - civet | fe13 - mongoose | fe14 - genet | fe15 - k
 --- | --- | --- | --- | --- | --- | 
 feline | ![fe11 - cougar](examples/feline/fe11-cougar.png) | ![fe12 - civet](examples/feline/fe12-civet.png) | ![fe13 - mongoose](examples/feline/fe13-mongoose.png) | ![fe14 - genet](examples/feline/fe14-genet.png) | ![fe15 - kusimanse](examples/feline/fe15-kusimanse.png) | 
 
-Class | pri0 - monkey | pri1 - nightmonkey | pri2 - lemur | pri3 - tarsier | pri4 - gorilla | pri5 - mandrill |
---- | --- | --- | --- | --- | --- | --- |
-primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | ![pri5 - mandrill](examples/primate/pri5-mandrill.png) |
+Class | mac0 - tractor | mac1 - excavator | mac2 - rolling compactor | mac3 - full-track tank | mac4 - half-track car | mac5 - forklift | mac6 - rocket | 
+--- | --- | --- | --- | --- | --- | --- | --- | 
+machinery | ![mac0 - tractor](examples/machinery/mac0-tractor.png) | ![mac1 - excavator](examples/machinery/mac1-excavator.png) | ![mac2 - rolling compactor](examples/machinery/mac2-rolling_compactor.png) | ![mac3 - full-track tank](examples/machinery/mac3-full-track_tank.png) | ![mac4 - half-track car](examples/machinery/mac4-half-track_car.png) | ![mac5 - forklift](examples/machinery/mac5-forklift.png) | ![mac6 - rocket](examples/machinery/mac6-rocket.png) | 
 
-Class | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | pri10 - ape | pri11 - marmoset | pri12 - colugo |
+Class | mm0 - dolphin | mm1 - whale | mm2 - narwhal | mm3 - vaquita | 
+--- | --- | --- | --- | --- | 
+marine mammals | ![mm0 - dolphin](examples/marine_mammals/mm0-dolphin.png) | ![mm1 - whale](examples/marine_mammals/mm1-whale.png) | ![mm2 - narwhal](examples/marine_mammals/mm2-narwhal.png) | ![mm3 - vaquita](examples/marine_mammals/mm3-vaquita.png) | 
+
+Class | mm4 - dugong/manatee | mm5 - seal/sea lion | mm6 - walrus | mm7 - porpoise | 
+--- | --- | --- | --- | --- | 
+marine mammals | ![mm4 - dugong/manatee](examples/marine_mammals/mm4-dugong.png) | ![mm5 - seal/sea lion](examples/marine_mammals/mm5-seal.png) | ![mm6 - walrus](examples/marine_mammals/mm6-walrus.png) | ![mm7 - porpoise](examples/marine_mammals/mm7-porpoise.png) | 
+
+Class | mu0 - badger | mu1 - weasel/stoat | mu2 - polecat | mu3 - ferret | mu4 - mink | mu5 - wolverine | 
+--- | --- | --- | --- | --- | --- | --- | 
+mustelinae | ![mu0 - badger](examples/mustelinae/mu0-badger.png) | ![mu1 - weasel/stoat](examples/mustelinae/mu1-weasel.png) | ![mu2 - polecat](examples/mustelinae/mu2-polecat.png) | ![mu3 - ferret](examples/mustelinae/mu3-ferret.png) | ![mu4 - mink](examples/mustelinae/mu4-mink.png) | ![mu5 - wolverine](examples/mustelinae/mu5-wolverine.png) | 
+
+Class | mu6 - tayra | mu7 - skunk | mu8 - otter | mu9 - marten | mu10 - fisher | 
+--- | --- | --- | --- | --- | --- | 
+mustelinae | ![mu6 - tayra](examples/mustelinae/mu6-tayra.png) | ![mu7 - skunk](examples/mustelinae/mu7-skunk.png) | ![mu8 - otter](examples/mustelinae/mu8-otter.png) | ![mu9 - marten](examples/mustelinae/mu9-marten.png) | ![mu10 - fisher](examples/mustelinae/mu10-fisher.png) | 
+
+Class | pri0 - monkey | pri1 - nightmonkey | pri2 - lemur | pri3 - tarsier | pri4 - gorilla | pri5 - mandrill | pri6 - orangutan |
 --- | --- | --- | --- | --- | --- | --- | --- |
-primate | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) | ![pri12 - colugo](examples/primate/pri12-colugo.png) |
+primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | ![pri5 - mandrill](examples/primate/pri5-mandrill.png) | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | 
+
+Class | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | pri10 - ape | pri11 - marmoset | pri12 - colugo |
+--- | --- | --- | --- | --- | --- | --- |
+primate | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) | ![pri12 - colugo](examples/primate/pri12-colugo.png) |
+
+Class | pr0 - raccoon | pr1 - ringtail | pr2 - coati | pr3 - kinkajou | pr4 - olinguito |
+--- | --- | --- | --- | --- | --- | 
+procyonid | ![pr0 - raccoon](examples/procyonid/pr0-raccoon.png) | ![pr1 - ringtail](examples/procyonid/pr1-ringtail.png) | ![pr2 - coati](examples/procyonid/pr2-coati.png) | ![pr3 - kinkajou](examples/procyonid/pr3-kinkajou.png) | ![pr4 - olinguito](examples/procyonid/pr4-olinguito.png) | 
 
 Class |  re0 - snake |  re1 - turtle |  re2 - sea turtle |  re3 - lizard |  re4 - frilled-neck lizard |  
 --- | --- | --- | --- | --- | --- | 
 reptile |  ![re0 - snake](examples/reptile/re0-snake.png) |  ![re1 - turtle](examples/reptile/re1-turtle.png) |  ![re2 - sea_turtle](examples/reptile/re2-sea_turtle.png) |  ![re3 - lizard](examples/reptile/re3-lizard.png) |  ![re4 - frilled-neck_lizard](examples/reptile/re4-frilldneck_lizard.png) |  
-
 
 Class |  re5 - monitor lizard |  re6 - chameleon |  re7 - aligator |  re8 - iguana |  re9 - gila monster |  
 --- | --- | --- | --- | --- | --- | 
@@ -179,7 +202,6 @@ Class | ve21 - full-track tank | ve22 - half-track car | ve23 - bumper car | ve2
 --- | --- | --- | --- | --- | --- | --- |
 vehicle | ![ve21 - full-track tank](examples/vehicle/ve21-full-track_tank.png) | ![ve22 - half-track car](examples/vehicle/ve22-half-track_car.png) | ![ve23 - bumper car](examples/vehicle/ve23-bumper_car.png) | ![ve24 - go-kart](examples/vehicle/ve24-go-kart.png) | ![ve25 - amphibious car](examples/vehicle/ve25-amphibious_car.png) | ![ve26 - soapbox car](examples/vehicle/ve26-soapbox_car.png) |
 
-
 Class | wa0 - wooden boat | wa1 - jet boat | wa2 - catamaran boat | wa3 - yacht | wa4 - jetski | 
 --- | --- | --- | --- | --- | --- |
 watercraft | ![wa0-wooden_boat](examples/watercraft/wa0-wooden_boat.png) | ![wa1-jet_boat](examples/watercraft/wa1-jet_boat.png) | ![wa2-catamaran_boat](examples/watercraft/wa2-catamaran_boat.png) | ![wa3-yacht](examples/watercraft/wa3-yacht.png) | ![wa4-jetski](examples/watercraft/wa4-jetski.png) | 
@@ -192,6 +214,25 @@ Class | wa9 - military ship | wa10 - cargo ship | wa11 - other ship | wa12 - sub
 --- | --- | --- | --- | --- |
 watercraft | ![wa9-military_ship](examples/watercraft/wa9-military_ship.png) | ![wa10-cargo_ship](examples/watercraft/wa10-cargo_ship.png) | ![wa11-other_ship](examples/watercraft/wa11-other_ship.png) | ![wa12-submarine](examples/watercraft/wa12-submarine.png) | 
 
+Class | om0 - bat | om1 - elephant | om2 - hyrax | om3 - hippo | om4 - rhino | om5 - tapir | om6 - anteater | 
+--- | --- | --- | --- | --- | --- | --- | --- | 
+other mammals | ![om0 - bat](examples/other_mammals/om0-bat.png) | ![om1 - elephant](examples/other_mammals/om1-elephant.png) | ![om2 - hyrax](examples/other_mammals/om2-hyrax.png) | ![om3 - hippo](examples/other_mammals/om3-hippo.png) | ![om4 - rhino](examples/other_mammals/om4-rhino.png) | ![om5 - tapir](examples/other_mammals/om5-tapir.png) | ![om6 - anteater](examples/other_mammals/om6-anteater.png) | 
+
+Class | om7 - armadillo | om8 - pangolin | om9 - aardvark | om10 - tasmanian devil | om11 - sloth | om12 - cuscus | om13 - possum | 
+--- | --- | --- | --- | --- | --- | --- | --- | 
+other mammals | ![om7 - armadillo](examples/other_mammals/om7-armadillo.png) | ![om8 - pangolin](examples/other_mammals/om8-pangolin.png) | ![om9 - aardvark](examples/other_mammals/om9-aardvark.png) | ![om10 - tasmanian devil](examples/other_mammals/om10-tasmanian_devil.png) | ![om11 - sloth](examples/other_mammals/om11-sloth.png) | ![om12 - cuscus](examples/other_mammals/om12-cuscus.png) | ![om13 - possum](examples/other_mammals/om13-possum.png) | 
+
+Class | ou0 - restaurant | ou1 - human | ou2 - multiple subject | ou3 - unknown animal | ou4 - unclear picture | ou5 - skull | 
+--- | --- | --- | --- | --- | --- | --- | 
+outlier | ![ou0 - restaurant](examples/outliers/ou0-restaurant.png) | ![ou1 - human](examples/outliers/ou1-human.png) | ![ou2 - multiple subject](examples/outliers/ou2-multiple_subject.png) | ![ou3 - unknown animal](examples/outliers/ou3-unknown_animal.png) | ![ou4 - unclear picture](examples/outliers/ou4-unclear_picture.png) | ![ou5 - skull](examples/outliers/ou5-skull.png) | 
+
+Class |  ou6 - moth |  ou7 - car-interior |  ou8 - train-interior |  ou9 - ship-interior |  ou10 - japanese giant salamander |  ou11 - tambaqui fish |  
+--- | --- | --- | --- | --- | --- | --- | 
+outlier | ![ou6 - moth](examples/outliers/ou6-moth.png) | ![ou7 - car-interior](examples/outliers/ou7-car-interior.png) | ![ou8 - train-interior](examples/outliers/ou8-train-interior.png) | ![ou9 - ship-interior](examples/outliers/ou9-ship-interior.png) | ![ou10 - japanese giant salamander](examples/outliers/ou10-japanese_giant_salamander.png) | ![ou11 - tambaqui fish](examples/outliers/ou11-tambaqui_fish.png) | 
+
+Class | ou12 - seahorse | ou13 - frog | ou14 - kangaroo | ou15 - mantis | 
+--- | --- | --- | --- | --- | 
+outlier | ![ou12 - seahorse](examples/outliers/ou12-seahorse.png) | ![ou13 - frog](examples/outliers/ou13-frog.png) | ![ou14 - kangaroo](examples/outliers/ou14-kangaroo.png) | ![ou15 - mantis](examples/outliers/ou15-mantis.png) | 
 
 
 `antelope` in 0-55k will be redone <br/>
@@ -199,3 +240,5 @@ watercraft | ![wa9-military_ship](examples/watercraft/wa9-military_ship.png) | !
 `cat` in 0-35k --> separate civet  and genet <br/>
 `cougar` --> may be moved to lion, because of lack of clarity <br/>
 `fe15` until 75k, there should only be 1.
+`rocket` separate two types of rocket into mchinery and aircraft...
+`mm1` separate orca from whales

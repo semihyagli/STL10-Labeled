@@ -108,10 +108,9 @@ Class | car0 - horse carriage | car1 - cattle carriage | car2 - human carriage |
 --- | --- | --- | --- | --- | --- | --- | 
 carriage | ![car0 - horse carriage](examples/carriage/car0-horse_carriage.png) | ![car1 - cattle carriage](examples/carriage/car1-cattle_carriage.png) | ![car2 - human carriage](examples/carriage/car2-human_carriage.png) | ![car3 - donkey carriage](examples/carriage/car3-donkey_carriage.png) | ![car4 - goat carriage](examples/carriage/car4-goat_carriage.png) | ![car5 - other carriage](examples/carriage/car5-other_carriage.png) | 
 
-Class | eq0 - horse | eq1 - donkey | eq2 - onager | eq3 - zorse |
---- | --- | --- | --- | --- | 
-equine | ![eq0 - horse](examples/equine/eq0-horse.png) | ![eq1 - donkey](examples/equine/eq1-donkey.png) | ![eq2 - onager](examples/equine/eq2-onager.png) | ![eq3 - zorse](examples/equine/eq3-zorse.png) | 
-
+Class | eq0 - horse | eq1 - donkey | eq2 - onager | eq3 - zorse | eq4 - zebra | eq5 - okapi | 
+--- | --- | --- | --- | --- | --- | --- | 
+equine | ![eq0 - horse](examples/equine/eq0-horse.png) | ![eq1 - donkey](examples/equine/eq1-donkey.png) | ![eq2 - onager](examples/equine/eq2-onager.png) | ![eq3 - zorse](examples/equine/eq3-zorse.png) | ![eq4 - zebra](examples/equine/eq4-zebra.png) | ![eq5 - okapi](examples/equine/eq5-okapi.png) | 
 
 Class | fe0 - cat | fe1 - lion | fe2 - tiger | fe3 - leopard | fe4 - hyena | fe5 - meerkat | 
 --- | --- | --- | --- | --- | --- | --- |

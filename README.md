@@ -108,6 +108,10 @@ Class | car0 - horse carriage | car1 - cattle carriage | car2 - human carriage |
 --- | --- | --- | --- | --- | --- | --- | 
 carriage | ![car0 - horse carriage](examples/carriage/car0-horse_carriage.png) | ![car1 - cattle carriage](examples/carriage/car1-cattle_carriage.png) | ![car2 - human carriage](examples/carriage/car2-human_carriage.png) | ![car3 - donkey carriage](examples/carriage/car3-donkey_carriage.png) | ![car4 - goat carriage](examples/carriage/car4-goat_carriage.png) | ![car5 - other carriage](examples/carriage/car5-other_carriage.png) | 
 
+Class | cy0 - motorcycle | cy1 - monocycle | cy2 - bicycle | cy3 - tricycle | cy4 - snowmobile | cy5 - skateboard | cy6 - scooter | 
+--- | --- | --- | --- | --- | --- | --- | --- | 
+cycle | ![cy0 - motorcycle](examples/cycle/cy0-motorcycle.png) | ![cy1 - monocycle](examples/cycle/cy1-monocycle.png) | ![cy2 - bicycle](examples/cycle/cy2-bicycle.png) | ![cy3 - tricycle](examples/cycle/cy3-tricycle.png) | ![cy4 - snowmobile](examples/cycle/cy4-snowmobile.png) | ![cy5 - skateboard](examples/cycle/cy5-skateboard.png) | ![cy6 - scooter](examples/cycle/cy6-scooter.png) | 
+
 Class | eq0 - horse | eq1 - donkey | eq2 - onager | eq3 - zorse | eq4 - zebra | eq5 - okapi | 
 --- | --- | --- | --- | --- | --- | --- | 
 equine | ![eq0 - horse](examples/equine/eq0-horse.png) | ![eq1 - donkey](examples/equine/eq1-donkey.png) | ![eq2 - onager](examples/equine/eq2-onager.png) | ![eq3 - zorse](examples/equine/eq3-zorse.png) | ![eq4 - zebra](examples/equine/eq4-zebra.png) | ![eq5 - okapi](examples/equine/eq5-okapi.png) | 

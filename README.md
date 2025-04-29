@@ -100,10 +100,13 @@ Class | cam0 - camel | cam1 - lama/alpaca |
 --- | --- | --- | 
 camelid | ![cam0 - camel](examples/camelid/cam0-camel.png) | ![cam1 - lama/alpaca](examples/camelid/cam1-lama.png) | 
 
-Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
+Class | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
 --- | --- | --- | --- | --- | --- | --- | --- |
 canine | ![ca0 - dog](examples/canine/ca0-dog.png) | ![ca1 - fox](examples/canine/ca1-fox.png) | ![ca2 - wolf](examples/canine/ca2-wolf.png) | ![ca3 - coyote](examples/canine/ca3-coyote.png) | ![ca4 - jackal](examples/canine/ca4-jackal.png) | ![ca5 - maned wolf](examples/canine/ca5-maned%20wolf.png) | ![ca6 - dog sled](examples/canine/ca6-dog%20sled.png)
 
+Class | car0 - horse carriage | car1 - cattle carriage | car2 - human carriage | car3 - donkey carriage | car4 - goat carriage | car5 - other carriage | 
+--- | --- | --- | --- | --- | --- | --- | 
+carriage | ![car0 - horse carriage](examples/carriage/car0-horse_carriage.png) | ![car1 - cattle carriage](examples/carriage/car1-cattle_carriage.png) | ![car2 - human carriage](examples/carriage/car2-human_carriage.png) | ![car3 - donkey carriage](examples/carriage/car3-donkey_carriage.png) | ![car4 - goat carriage](examples/carriage/car4-goat_carriage.png) | ![car5 - other carriage](examples/carriage/car5-other_carriage.png) | 
 
 Class | eq0 - horse | eq1 - donkey | eq2 - onager | eq3 - zorse |
 --- | --- | --- | --- | --- | 

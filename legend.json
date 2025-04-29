@@ -31,17 +31,17 @@
     "kob": "an15",
     "topi": "an16"
   },
-  "bird": {
-    "bird": "bi0",
-    "chicken": "bi1",
-    "duck": "bi2"
-  },
   "bear": {
     "black bear": "be0",
     "brown bear": "be1",
     "polar bear": "be2",
     "panda bear": "be3",
     "red panda": "be4"
+  },
+  "bird": {
+    "bird": "bi0",
+    "chicken": "bi1",
+    "duck": "bi2"
   },
   "camelid" : {
     "camel": "cam0",

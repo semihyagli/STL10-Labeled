@@ -168,15 +168,29 @@ Class |  re5 - monitor lizard |  re6 - chameleon |  re7 - aligator |  re8 - igua
 --- | --- | --- | --- | --- | --- | 
 reptile | ![re5 - monitor_lizard](examples/reptile/re5-monitor_lizard.png) | ![re6 - chameleon](examples/reptile/re6-chameleon.png) | ![re7 - aligator](examples/reptile/re7-aligator.png) | ![re8 - iguana](examples/reptile/re8-iguana.png) | ![re9 - gila_monster](examples/reptile/re9-gila_monster.png) | 
 
+Class |  ro0 - mouse |  ro1 - rat |  ro2 - hamster |  ro3 - guinea pig |  ro4 - squirrel |  ro5 - rabbit |  
+--- | --- | --- | --- | --- | --- | --- | 
+rodent | ![ro0 - mouse](examples/rodent/ro0-mouse.png) | ![ro1 - rat](examples/rodent/ro1-rat.png) | ![ro2 - hamster](examples/rodent/ro2-hamster.png) | ![ro3 - guinea pig](examples/rodent/ro3-guinea_pig.png) | ![ro4 - squirrel](examples/rodent/ro4-squirrel.png) | ![ro5 - rabbit](examples/rodent/ro5-rabbit.png) | 
+
+Class |  ro6 - pika |  ro7 - vole |  ro8 - mouse-deer |  ro9 - agouti |  ro10 - jerboa |  ro11 - marmot |  
+--- | --- | --- | --- | --- | --- | --- | 
+rodent | ![ro6 - pika](examples/rodent/ro6-pika.png) | ![ro7 - vole](examples/rodent/ro7-vole.png) | ![ro8 - mouse-deer](examples/rodent/ro8-mouse-deer.png) | ![ro9 - agouti](examples/rodent/ro9-agouti.png) | ![ro10 - jerboa](examples/rodent/ro10-jerboa.png) | ![ro11 - marmot](examples/rodent/ro11-marmot.png) | 
+
+Class |  ro12 - nutria |  ro13 - chinchilla |  ro14 - shrew |  ro15 - paca |  ro16 - lemming |  ro17 - hedgehog |  
+--- | --- | --- | --- | --- | --- | --- | 
+rodent | ![ro12 - nutria](examples/rodent/ro12-nutria.png) | ![ro13 - chinchilla](examples/rodent/ro13-chinchilla.png) | ![ro14 - shrew](examples/rodent/ro14-shrew.png) | ![ro15 - paca](examples/rodent/ro15-paca.png) | ![ro16 - lemming](examples/rodent/ro16-lemming.png) | ![ro17 - hedgehog](examples/rodent/ro17-hedgehog.png) | 
 
 Class | ru0 - deer | ru1 - pronghorn | ru2 - cattle | ru3 - sheep | ru4 - goat | 
 --- | --- | --- | --- | --- | --- |
 ruminant | ![ru0-deer](examples/ruminant/ru0-deer.png) | ![ru1-pronghorn](examples/ruminant/ru1-pronghorn.png) | ![ru2-cattle](examples/ruminant/ru2-cattle.png) | ![ru3-sheep](examples/ruminant/ru3-sheep.png) | ![ru4-goat](examples/ruminant/ru4-goat.png) | 
 
-Class | ru5 - markhor | ru6 - giraffe | ru7 - takin | ru8 - serow | 
---- | --- | --- | --- | --- |
-ruminant | ![ru5-markhor](examples/ruminant/ru5-markhor.png) | ![ru6-giraffe](examples/ruminant/ru6-giraffe.png) | ![ru7-takin](examples/ruminant/ru7-takin.png) | ![ru8-serow](examples/ruminant/ru8-serow.png)
+Class | ru5 - markhor | ru6 - giraffe | ru7 - takin | ru8 - serow | ru9 - goral |
+--- | --- | --- | --- | --- | --- |
+ruminant | ![ru5-markhor](examples/ruminant/ru5-markhor.png) | ![ru6-giraffe](examples/ruminant/ru6-giraffe.png) | ![ru7-takin](examples/ruminant/ru7-takin.png) | ![ru8-serow](examples/ruminant/ru8-serow.png) | ![ru9-goral](examples/ruminant/ru9-goral.png) |
 
+Class | sw0 - pig | sw1 - boar/peccary | sw2 - warthog | sw3 - babirusa | 
+--- | --- | --- | --- | --- | 
+swine | ![sw0 - pig](examples/swine/sw0-pig.png) | ![sw1 - boar/peccary](examples/swine/sw1-boar.png) | ![sw2 - warthog](examples/swine/sw2-warthog.png) | ![sw3 - babirusa](examples/swine/sw3-babirusa.png) | 
 
 Class | tr0 - train | tr1 - tram | 
 --- | --- | --- | 
@@ -236,9 +250,11 @@ outlier | ![ou12 - seahorse](examples/outliers/ou12-seahorse.png) | ![ou13 - fro
 
 
 `antelope` in 0-55k will be redone <br/>
-`rat` in 0-35k --> separate chincilla <br/>
-`cat` in 0-35k --> separate civet  and genet <br/>
+`mouse` in 0-35k needs to be redone <br/>
+`rat` in 0-35k --> separate chincilla (needs to be redone) <br/>
+`cat` in 0-35k --> separate civet and genet <br/>
 `cougar` --> may be moved to lion, because of lack of clarity <br/>
-`fe15` until 75k, there should only be 1.
-`rocket` separate two types of rocket into mchinery and aircraft...
-`mm1` separate orca from whales
+`fe15` until 75k, there should only be 1. <br/>
+`rocket` separate two types of rocket into mchinery and aircraft... <br/>
+`mm1` separate orca from whales <br/>
+`sw1` separate peccaries <br/>

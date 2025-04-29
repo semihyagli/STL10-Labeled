@@ -76,14 +76,17 @@ Class | ai6 - hot air balloon | ai7 - zeppelin | ai8 - spaceship | ai9 - other b
 --- | --- | --- | --- | --- | --- | 
 airplane |  ![ai6 - balloon](examples/airplane/ai6-balloon.png) | ![ai7 - zeppelin](examples/airplane/ai7-zeppelin.png) | ![ai8 - spaceship](examples/airplane/ai8-spaceship.png) |![ai9 - other balloon](examples/airplane/ai9-otherballoon.png) |![ai10 - kite](examples/airplane/ai10-kite.png) |
 
+Class | an0 - antelope | an1 - wildebeest | an2 - oryx | an3 - dikdik | an4 - eland | an5 - kudu | 
+--- | --- | --- | --- | --- | --- | --- | 
+antelope | ![an0 - antelope](examples/antelope/an0-antelope.png) | ![an1 - wildebeest](examples/antelope/an1-wildebeest.png) | ![an2 - oryx](examples/antelope/an2-oryx.png) | ![an3 - dikdik](examples/antelope/an3-dikdik.png) | ![an4 - eland](examples/antelope/an4-eland.png) | ![an5 - kudu](examples/antelope/an5-kudu.png) | 
 
-Class | an0 - antelope | an1 - wildebeest | an2 - oryx | an3 - dikdik |
---- | --- | --- | --- | --- |
-antelope | ![an0-antelope](examples/antelope/an0-antelope.png) | ![an1-wildebeest](examples/antelope/an1-wildebeest.png) | ![an2-oryx](examples/antelope/an2-oryx.png) | ![an3-dikdik](examples/antelope/an3-dikdik.png) | 
+Class | an6 - gerenuk | an7 - springbok | an8 - hartebeest | an9 - waterbuck | an10 - blackbuck | an11 - gazelle | 
+--- | --- | --- | --- | --- | --- | --- | 
+antelope | ![an6 - gerenuk](examples/antelope/an6-gerenuk.png) | ![an7 - springbok](examples/antelope/an7-springbok.png) | ![an8 - hartebeest](examples/antelope/an8-hartebeest.png) | ![an9 - waterbuck](examples/antelope/an9-waterbuck.png) | ![an10 - blackbuck](examples/antelope/an10-blackbuck.png) | ![an11 - gazelle](examples/antelope/an11-gazelle.png) | 
 
-Class | an4 - eland | an5 - kudu | an6 - gerenuk | 
---- | --- | --- | --- |
-antelope | ![an4-eland](examples/antelope/an4-eland.png) | ![an5-kudu](examples/antelope/an5-kudu.png) | ![an6-gerenuk](examples/antelope/an6-gerenuk.png) | 
+Class | an12 - impala | an13 - saiga | an14 - addax | an15 - kob | an16 - topi | 
+--- | --- | --- | --- | --- | --- |
+antelope | ![an12 - impala](examples/antelope/an12-impala.png) | ![an13 - saiga](examples/antelope/an13-saiga.png) | ![an14 - addax](examples/antelope/an14-addax.png) | ![an15 - kob](examples/antelope/an15-kob.png) | ![an16 - topi](examples/antelope/an16-topi.png) | 
 
 
 Class  | ca0 - dog | ca1 - fox | ca2 - wolf | ca3 - coyote | ca4 - jackal | ca5 - maned wolf | ca6 - dog sled
@@ -173,7 +176,7 @@ watercraft | ![wa9-military_ship](examples/watercraft/wa9-military_ship.png) | !
 
 
 
-antelope will be redone <br/>
+`antelope` in 0-55k will be redone <br/>
 `rat` in 0-35k --> separate chincilla <br/>
 `cat` in 0-35k --> separate civet  and genet <br/>
 `cougar` --> may be moved to lion, because of lack of clarity <br/>

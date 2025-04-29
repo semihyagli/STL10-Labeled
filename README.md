@@ -196,25 +196,29 @@ Class | tr0 - train | tr1 - tram |
 --- | --- | --- | 
 train | ![tr0 - train](/examples/train/tr0-train.png) | ![tr1 - tram](/examples/train/tr1-tram.png) | 
 
-Class | ve0 - car | ve1 - limo | ve2 - golf-cart | ve3 - jeep | ve4 - bus | ve5 - minibus 
---- | --- | --- | --- | --- | --- | --- |
-vehicle | ![ve0 - car](examples/vehicle/ve0-car.png) | ![ve1 - limo](examples/vehicle/ve1-limo.png) | ![ve2 - golf-cart](examples/vehicle/ve2-golf-cart.png) | ![ve3 - jeep](examples/vehicle/ve3-jeep.png) | ![ve4 - bus](examples/vehicle/ve4-bus.png) | ![ve5 - minibus](examples/vehicle/ve5-minibus.png) |
+Class | tru0 - truck-general | tru1 - truck bobtail | tru2 - freight truck | tru3 - gravel truck | tru4 - small-box truck | tru5 - mini truck | 
+--- | --- | --- | --- | --- | --- | --- | 
+truck | ![tru0 - truck-general](examples/truck/tru0-truck-general.png) | ![tru1 - truck bobtail](examples/truck/tru1-truck_bobtail.png) | ![tru2 - freight truck](examples/truck/tru2-freight_truck.png) | ![tru3 - gravel truck](examples/truck/tru3-gravel_truck.png) | ![tru4 - small-box truck](examples/truck/tru4-small-box_truck.png) | ![tru5 - mini truck](examples/truck/tru5-mini_truck.png) | 
 
-Class | ve6 - minivan | ve7 - van | ve8 - caravan | ve9 - ambulance_van | ve10 - ambulance_truck |
---- | --- | --- | --- | --- | --- |
-vehicle | ![ve6 - minivan](examples/vehicle/ve6-minivan.png) | ![ve7 - van](examples/vehicle/ve7-van.png) | ![ve8 - caravan](examples/vehicle/ve8-caravan.png) | ![ve9 - ambulance_van](examples/vehicle/ve9-ambulance_van.png) | ![ve10 - ambulance_truck](examples/vehicle/ve10-ambulance_truck.png) |
+Class | tru6 - pickup truck | tru7 - car carrier/trailer | tru8 - garbage truck | tru9 - firetruck | tru10 - tow truck | tru11 - snowplow | 
+--- | --- | --- | --- | --- | --- | --- | 
+truck | ![tru6 - pickup truck](examples/truck/tru6-pickup_truck.png) | ![tru7 - car carrier/trailer](examples/truck/tru7-car_carrier_trailer.png) | ![tru8 - garbage truck](examples/truck/tru8-garbage_truck.png) | ![tru9 - firetruck](examples/truck/tru9-firetruck.png) | ![tru10 - tow truck](examples/truck/tru10-tow_truck.png) | ![tru11 - snowplow](examples/truck/tru11-snowplow.png) | 
 
-Class | ve11 - garbage truck | ve12 - firetruck | ve13 - car carrier trailer | ve14 - freight truck | ve15 - gravel truck |
---- | --- | --- | --- | --- | --- |
-vehicle | ![ve11 - garbage truck](examples/vehicle/ve11-garbage_truck.png) | ![ve12 - firetruck](examples/vehicle/ve12-firetruck.png) | ![ve13 - car carrier trailer](examples/vehicle/ve13-car_carrier_trailer.png) | ![ve14 - freight truck](examples/vehicle/ve14-freight_truck.png) | ![ve15 - gravel truck](examples/vehicle/ve15-gravel_truck.png) |
+Class | ut0 - shopping cart | ut1 - dolly | ut2 - wheel barrow | ut3 - buffet trolley | 
+--- | --- | --- | --- | --- | 
+utility | ![ut0 - shopping cart](examples/utility/ut0-shopping_cart.png) | ![ut1 - dolly](examples/utility/ut1-dolly.png) | ![ut2 - wheel barrow](examples/utility/ut2-wheel_barrow.png) | ![ut3 - buffet trolley](examples/utility/ut3-buffet_trolley.png) | 
 
-Class | ve16 - mini truck | ve17 - pickup truck | ve18 - tractor | ve19 - excavator | ve20 - rolling compactor |
---- | --- | --- | --- | --- | --- |
-vehicle | ![ve16 - mini truck](examples/vehicle/ve16-mini_truck.png) | ![ve17 - pickup truck](examples/vehicle/ve17-pickup_truck.png) | ![ve18 - tractor](examples/vehicle/ve18-tractor.png) | ![ve19 - excavator](examples/vehicle/ve19-excavator.png) | ![ve20 - rolling compactor](examples/vehicle/ve20-rolling_compactor.png) |
+Class | ut4 - laundry cart | ut5 - stroller | ut6 - other utility | ut7 - sleigh | 
+--- | --- | --- | --- | --- | 
+utility | ![ut4 - laundry cart](examples/utility/ut4-laundry_cart.png) | ![ut5 - stroller](examples/utility/ut5-stroller.png) | ![ut6 - other utility](examples/utility/ut6-other_utility.png) | ![ut7 - sleigh](examples/utility/ut7-sleigh.png) | 
 
-Class | ve21 - full-track tank | ve22 - half-track car | ve23 - bumper car | ve24 - go-kart | ve25 - amphibious car | ve26 - soapbox car |
---- | --- | --- | --- | --- | --- | --- |
-vehicle | ![ve21 - full-track tank](examples/vehicle/ve21-full-track_tank.png) | ![ve22 - half-track car](examples/vehicle/ve22-half-track_car.png) | ![ve23 - bumper car](examples/vehicle/ve23-bumper_car.png) | ![ve24 - go-kart](examples/vehicle/ve24-go-kart.png) | ![ve25 - amphibious car](examples/vehicle/ve25-amphibious_car.png) | ![ve26 - soapbox car](examples/vehicle/ve26-soapbox_car.png) |
+Class | ve0 - car | ve1 - limo | ve2 - golf-cart | ve3 - 4x4 | ve4 - bus | ve5 - minibus |  ve6 - minivan |
+--- | --- | --- | --- | --- | --- | --- | --- | 
+vehicle | ![ve0 - car](examples/vehicle/ve0-car.png) | ![ve1 - limo](examples/vehicle/ve1-limo.png) | ![ve2 - golf-cart](examples/vehicle/ve2-golf-cart.png) | ![ve3 - 4x4](examples/vehicle/ve3-4x4.png) | ![ve4 - bus](examples/vehicle/ve4-bus.png) | ![ve5 - minibus](examples/vehicle/ve5-minibus.png) | ![ve6 - minivan](examples/vehicle/ve6-minivan.png) |
+
+Class | ve7 - van | ve8 - caravan | ve9 - bumper car | ve10 - go-kart | ve11 - amphibious | ve12 - soapbox car | ve13 - mini caravan | 
+--- | --- | --- | --- | --- | --- | --- | --- | 
+vehicle | ![ve7 - van](examples/vehicle/ve7-van.png) | ![ve8 - caravan](examples/vehicle/ve8-caravan.png) | ![ve9 - bumper car](examples/vehicle/ve9-bumper_car.png) | ![ve10 - go-kart](examples/vehicle/ve10-go-kart.png) | ![ve11 - amphibious](examples/vehicle/ve11-amphibious.png) | ![ve12 - soapbox car](examples/vehicle/ve12-soapbox_car.png) | ![ve13 - mini caravan](examples/vehicle/ve13-mini_caravan.png) | 
 
 Class | wa0 - wooden boat | wa1 - jet boat | wa2 - catamaran boat | wa3 - yacht | wa4 - jetski | 
 --- | --- | --- | --- | --- | --- |
@@ -258,3 +262,5 @@ outlier | ![ou12 - seahorse](examples/outliers/ou12-seahorse.png) | ![ou13 - fro
 `rocket` separate two types of rocket into mchinery and aircraft... <br/>
 `mm1` separate orca from whales <br/>
 `sw1` separate peccaries <br/>
+`ve12` separate bobsled and soap box car <br/>
+`wa6` tugboat can be separated, also check for yacht <br/>

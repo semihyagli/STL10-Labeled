@@ -117,23 +117,24 @@ Class | eq0 - horse | eq1 - donkey | eq2 - onager | eq3 - zorse | eq4 - zebra | 
 equine | ![eq0 - horse](examples/equine/eq0-horse.png) | ![eq1 - donkey](examples/equine/eq1-donkey.png) | ![eq2 - onager](examples/equine/eq2-onager.png) | ![eq3 - zorse](examples/equine/eq3-zorse.png) | ![eq4 - zebra](examples/equine/eq4-zebra.png) | ![eq5 - okapi](examples/equine/eq5-okapi.png) | 
 
 Class | fe0 - cat | fe1 - lion | fe2 - tiger | fe3 - leopard | fe4 - hyena | fe5 - meerkat | 
---- | --- | --- | --- | --- | --- | --- |
-feline | ![fe0 - cat](examples/feline/fe0-cat.png) | ![fe1 - lion](examples/feline/fe1-lion.png) | ![fe2 - tiger](examples/feline/fe2-tiger.png) | ![fe3 - leopard](examples/feline/fe3-leopard.png) | ![fe4 - hyena](examples/feline/fe4-hyena.png) |  ![fe5 - meerkat](examples/feline/fe5-meerkat.png) |
-
-Class | fe6 - fossa | fe7 - caracal | fe8 - lynx | fe9 - manul | fe10 - jaguar | fe11 - cougar | 
 --- | --- | --- | --- | --- | --- | --- | 
-feline | ![fe6 - fossa](examples/feline/fe6-fossa.png) | ![fe7 - caracal](examples/feline/fe7-caracal.png) | ![fe8 - lynx](examples/feline/fe8-lynx.png) | ![fe9 - manul](examples/feline/fe9-manul.png) | ![fe10 - jaguar](examples/feline/fe10-jaguar.png) | ![fe11 - cougar](examples/feline/fe11-cougar.png) | 
+feline | ![fe0 - cat](examples/feline/fe0-cat.png) | ![fe1 - lion](examples/feline/fe1-lion.png) | ![fe2 - tiger](examples/feline/fe2-tiger.png) | ![fe3 - leopard](examples/feline/fe3-leopard.png) | ![fe4 - hyena](examples/feline/fe4-hyena.png) | ![fe5 - meerkat](examples/feline/fe5-meerkat.png) | 
 
+Class | fe6 - fossa | fe7 - caracal | fe8 - lynx | fe9 - bearcat | fe10 - jaguar | 
+--- | --- | --- | --- | --- | --- | 
+feline | ![fe6 - fossa](examples/feline/fe6-fossa.png) | ![fe7 - caracal](examples/feline/fe7-caracal.png) | ![fe8 - lynx](examples/feline/fe8-lynx.png) | ![fe9 - bearcat](examples/feline/fe9-bearcat.png) | ![fe10 - jaguar](examples/feline/fe10-jaguar.png) | 
+
+Class | fe11 - cougar | fe12 - civet | fe13 - mongoose | fe14 - genet | fe15 - kusimanse | 
+--- | --- | --- | --- | --- | --- | 
+feline | ![fe11 - cougar](examples/feline/fe11-cougar.png) | ![fe12 - civet](examples/feline/fe12-civet.png) | ![fe13 - mongoose](examples/feline/fe13-mongoose.png) | ![fe14 - genet](examples/feline/fe14-genet.png) | ![fe15 - kusimanse](examples/feline/fe15-kusimanse.png) | 
 
 Class | pri0 - monkey | pri1 - nightmonkey | pri2 - lemur | pri3 - tarsier | pri4 - gorilla | pri5 - mandrill |
 --- | --- | --- | --- | --- | --- | --- |
 primate | ![pri0 - monkey](examples/primate/pri0-monkey.png) | ![pri1 - nightmonkey](examples/primate/pri1-nightmonkey.png) | ![pri2 - lemur](examples/primate/pri2-lemur.png) | ![pri3 - tarsier](examples/primate/pri3-tarsier.png) | ![pri4 - gorilla](examples/primate/pri4-gorilla.png) | ![pri5 - mandrill](examples/primate/pri5-mandrill.png) |
 
-
-Class | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | pri10 - ape | pri11 - marmoset
---- | --- | --- | --- | --- | --- | --- |
-primate | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) |
-
+Class | pri6 - orangutan | pri7 - proboscis | pri8 - tamarin | pri9 - colobus | pri10 - ape | pri11 - marmoset | pri12 - colugo |
+--- | --- | --- | --- | --- | --- | --- | --- |
+primate | ![pri6 - orangutan](examples/primate/pri6-orangutan.png) | ![pri7 - proboscis](examples/primate/pri7-proboscis.png) | ![pri8 - tamarin](examples/primate/pri8-tamarin.png) | ![pri9 - colobus](examples/primate/pri9-colobus.png) | ![pri10 - ape](examples/primate/pri10-ape.png) | ![pri11 - marmoset](examples/primate/pri11-marmoset.png) | ![pri12 - colugo](examples/primate/pri12-colugo.png) |
 
 Class |  re0 - snake |  re1 - turtle |  re2 - sea turtle |  re3 - lizard |  re4 - frilled-neck lizard |  
 --- | --- | --- | --- | --- | --- | 

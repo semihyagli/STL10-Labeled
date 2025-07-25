@@ -253,12 +253,9 @@ Class | ou12 - seahorse | ou13 - frog | ou14 - kangaroo | ou15 - mantis |
 outlier | ![ou12 - seahorse](examples/outlier/ou12-seahorse.png) | ![ou13 - frog](examples/outlier/ou13-frog.png) | ![ou14 - kangaroo](examples/outlier/ou14-kangaroo.png) | ![ou15 - mantis](examples/outlier/ou15-mantis.png) | 
 
 ## Notes - For future Relases
-`antelope` in 0-55k will be redone <br/>
 `mouse` in 0-35k needs to be redone <br/>
 `rat` in 0-35k --> separate chincilla (needs to be redone) <br/>
 `cat` in 0-35k --> separate civet and genet <br/>
-`cougar` --> may be moved to lion, because of lack of clarity <br/>
-`fe15` until 75k, there should only be 1. <br/>
 `rocket` separate two types of rocket into mchinery and aircraft... <br/>
 `mm1` separate orca from whales <br/>
 `sw1` separate peccaries <br/>

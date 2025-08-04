@@ -233,9 +233,10 @@
   },
   "swine": {
     "pig": "sw0",
-    "boar/peccary": "sw1",
+    "boar": "sw1",
     "warthog": "sw2",
-    "babirusa": "sw3"
+    "babirusa": "sw3",
+    "peccary": "sw4"
   },
   "train": {
     "train": "tr0",

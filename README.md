@@ -188,9 +188,9 @@ Class | ru5 - markhor | ru6 - giraffe | ru7 - takin | ru8 - serow | ru9 - goral 
 --- | --- | --- | --- | --- | --- |
 ruminant | ![ru5-markhor](examples/ruminant/ru5-markhor.png) | ![ru6-giraffe](examples/ruminant/ru6-giraffe.png) | ![ru7-takin](examples/ruminant/ru7-takin.png) | ![ru8-serow](examples/ruminant/ru8-serow.png) | ![ru9-goral](examples/ruminant/ru9-goral.png) |
 
-Class | sw0 - pig | sw1 - boar/peccary | sw2 - warthog | sw3 - babirusa | 
---- | --- | --- | --- | --- | 
-swine | ![sw0 - pig](examples/swine/sw0-pig.png) | ![sw1 - boar/peccary](examples/swine/sw1-boar.png) | ![sw2 - warthog](examples/swine/sw2-warthog.png) | ![sw3 - babirusa](examples/swine/sw3-babirusa.png) | 
+Class | sw0 - pig | sw1 - boar | sw2 - warthog | sw3 - babirusa | sw4 - peccary |
+--- | --- | --- | --- | --- | --- |
+swine | ![sw0 - pig](examples/swine/sw0-pig.png) | ![sw1 - boar](examples/swine/sw1-boar.png) | ![sw2 - warthog](examples/swine/sw2-warthog.png) | ![sw3 - babirusa](examples/swine/sw3-babirusa.png) | ![sw4 - peccary](examples/swine/sw4-peccary.png)
 
 Class | tr0 - train | tr1 - tram | 
 --- | --- | --- | 

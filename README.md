@@ -255,9 +255,7 @@ outlier | ![ou12 - seahorse](examples/outlier/ou12-seahorse.png) | ![ou13 - frog
 ## Notes - For future Relases
 `mouse` in 0-35k needs to be redone <br/>
 `rat` in 0-35k --> separate chincilla (needs to be redone) <br/>
-`cat` in 0-35k --> separate civet and genet <br/>
 `rocket` separate two types of rocket into mchinery and aircraft... <br/>
 `mm1` separate orca from whales <br/>
-`sw1` separate peccaries <br/>
 `ve12` separate bobsled and soap box car <br/>
 `wa6` tugboat can be separated, also check for yacht <br/>

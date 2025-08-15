@@ -97,7 +97,8 @@
     "civet": "fe12", 
     "mongoose": "fe13",
     "genet": "fe14",
-    "kusimanse": "fe15"
+    "kusimanse": "fe15",
+    "ocelot": "fe16"
   },
   "machinery":{
     "tractor": "mac0",
